@@ -1,0 +1,31 @@
+[
+    {
+        "name": "flagbot",
+        "location": [47.3783140, 8.5488050],
+        "website": "https://flagbot.ch/",
+        "meetup": "Monday, 19:00",
+        "join": {
+            "link": "mailto:ctf@vis.ethz.ch",
+            "text": "ctf@vis.ethz.ch"
+        },
+        "ctftime": 34878,
+        "logo": "https://ctftime.org/media/team/FlagbotBotOnly_Pride_dark.png",
+        "activity": {
+            "2025": 8
+        }
+    },
+    {
+        "name": "polygl0ts",
+        "location": [46.5188328, 6.5631475],
+        "website": "https://polygl0ts.ch/",
+        "meetup": "Friday, 17:00",
+        "join": {
+            "link": "https://discord.gg/7Zx4FZyTSP"
+        },
+        "ctftime": 53791,
+        "logo": "https://polygl0ts.ch/assets/logo_black.svg",
+        "activity": {
+            "2025": 8
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "name": "TheGrue",
+        "location": [40.336574, -3.875524],
+        "website": "https://hackiit.org/",
+        "ctftime": 278165,
+        "logo": "https://ctftime.org/media/team/g-is-for-grue_1_-removebg-preview11.png",
+        "activity": {
+            "2025": 11
+        }
+    },
+    {
+        "name": "Hackiit",
+        "location": [37.196730, -3.624541],
+        "website": "https://hackiit.org/",
+        "ctftime": 70459,
+        "logo": "https://ctftime.org/media/team/hackiit-profile.png",
+        "activity": {
+            "2025": 7
+        }
+    },
+    {
+        "name": "ICAI Cyber Team",
+        "location": [40.429317, -3.711552],
+        "website": "https://icai-cyber-team.github.io/",
+        "ctftime": 209014,
+        "logo": "https://icai-cyber-team.github.io/assets/images/icai-cyber-team_hu38b4933139f6d56476527e78f843753b_493719_576x576_fill_q90_h2_box_smart1_3.webp",
+        "activity": {
+            "2025": 5
+        }
+    }
+]

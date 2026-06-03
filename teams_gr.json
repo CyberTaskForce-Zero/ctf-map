@@ -1,0 +1,40 @@
+[
+    {
+        "name": "1c3Gh3tt0",
+        "location": [38.002402, 23.676264],
+        "join": {
+            "link": "mailto:1c3gh3tt0@gmail.com",
+            "text": "1c3gh3tt0@gmail.com"
+        },
+        "ctftime": 299748,
+        "logo": "https://1c3gh3tt0.github.io/images/iceghetto2.png",
+        "activity": {
+            "2025": 76
+        }
+    },
+    {
+        "name": "0xdeada1u5",
+        "location": [35.308376, 25.083211],
+        "website": "https://0xdeada1u5.csd.uoc.gr/",
+        "join": {
+            "link": "https://discord.gg/RPytDp4yp8"
+        },
+        "ctftime": 169558,
+        "logo": "https://0xdeada1u5.csd.uoc.gr/img/deadalus.webp",
+        "activity": {
+            "2025": 6
+        }
+    },
+    {
+        "name": "TUCsec",
+        "location": [35.531652, 24.067829],
+        "website": "https://tucsec.tuc.gr/",
+        "join": {
+            "link": "https://discord.gg/PwfMrmfYU2"
+        },
+        "ctftime": 168867,
+        "activity": {
+            "2025": 1
+        }
+    }
+]

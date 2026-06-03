@@ -1,0 +1,108 @@
+[
+    {
+        "name": "Maple Bacon",
+        "location": [49.261227, -123.248851],
+        "website": "https://maplebacon.org/",
+        "meetup": "Tuesday & Friday, 17:00",
+        "join": {
+            "link": "https://discord.gg/keeTZsmfVA"
+        },
+        "ctftime": 73723,
+        "logo": "https://maplebacon.org/assets/images/logo.svg",
+        "activity": {
+            "2025": 47
+        }
+    },
+    {
+        "name": "UofTCTF",
+        "location": [43.7868427, -79.1904860],
+        "website": "https://uoftctf.org/",
+        "join": {
+            "link": "https://discord.com/invite/mK6apCGB"
+        },
+        "ctftime": 139261,
+        "logo": "https://uoftctf.org/avatar.png",
+        "activity": {
+            "2025": 45
+        }
+    },
+    {
+        "name": "Qu4cks",
+        "location": [44.2278173, -76.4926284],
+        "ctftime": 300287,
+        "logo": "https://ctftime.org/media/team/5248fc61a827e5b70013f8b9f4027266.png",
+        "activity": {
+            "2025": 35
+        }
+    },
+    {
+        "name": "WATCTF",
+        "location": [43.472550, -80.544516],
+        "website": "https://ctf.uwaterloo.ca/",
+        "ctftime": 373968,
+        "logo": "https://ctftime.org//media/team/Black_Back_Yellow_Lock.png",
+        "activity": {
+            "2025": 5
+        }
+    },
+    {
+        "name": "Shell We Hack?",
+        "location": [45.949626, -66.642042],
+        "website": "https://unbcybersec.com/",
+        "meetup": "Thursday, 18:30 - 20:00",
+        "join": {
+            "link": "https://discord.gg/kU6MRNr82J"
+        },
+        "ctftime": 220236,
+        "activity": {
+            "2025": 22
+        }
+    },
+    {
+        "name": "Status 418",
+        "location": [44.637630, -63.587169],
+        "ctftime": 361970,
+        "activity": {
+            "2025": 27
+        }
+    },
+    {
+        "name": "magpies",
+        "location": [51.077615, -114.128377],
+        "ctftime": 203024,
+        "activity": {
+            "2025": 19
+        }
+    },
+    {
+        "name": "swørdfish",
+        "location": [45.4952990, -73.5628618],
+        "ctftime": 413455,
+        "activity": {
+            "2025": 5
+        }
+    },
+    {
+        "name": "Hexploit Alliance",
+        "location": [45.5489665, -73.5366526],
+        "website": "https://hexploit-alliance.com/",
+        "ctftime": 278003,
+        "logo": "https://ctftime.org/media/team/170031405_1.png",
+        "activity": {
+            "2025": 0
+        }
+    },
+    {
+        "name": "PencilTesters",
+        "location": [48.461340, -123.311400],
+        "website": "https://vikesec.ca/",
+        "join": {
+            "link": "https://vikesec.ca/discord"
+        },
+        "ctftime": 178288,
+        "logo": "https://ctftime.org/media/team/a5.png",
+        "activity": {
+            "2025": 0
+        }
+    }
+]

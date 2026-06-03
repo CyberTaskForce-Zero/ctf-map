@@ -1,0 +1,37 @@
+[
+    {
+        "name": "siginthq",
+        "location": [55.9451120, -3.1872449],
+        "website": "https://sigint.mx/",
+        "meetup": "weekly",
+        "join": {
+            "link": "https://discord.gg/WynY7FD3HP"
+        },
+        "ctftime": 78828,
+        "logo": "https://sigint.mx/sigint_log.png",
+        "activity": {
+            "2025": 24
+        }
+    },
+    {
+        "name": "Hackchester",
+        "location": [53.4674866, -2.2346481],
+        "ctftime": 358850,
+        "logo": "https://ctftime.org/media/team/logo_630.png",
+        "activity": {
+            "2025": 5
+        }
+    },
+    {
+        "name": "cheriPI",
+        "location": [52.2112149, 0.0928217],
+        "join": {
+            "link": "https://discord.gg/wcTYCGcrHr"
+        },
+        "ctftime": 151152,
+        "logo": "https://ctftime.org/media/team/cheripi_discord.png",
+        "activity": {
+            "2025": 1
+        }
+}
+]

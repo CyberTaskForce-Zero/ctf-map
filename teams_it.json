@@ -1,0 +1,241 @@
+[
+    {
+        "name": "TheRomanXpl0it",
+        "location": [41.905052, 12.517282],
+        "website": "https://theromanxpl0.it/",
+        "join": {
+            "link": "mailto:hello@theromanxpl0.it",
+            "text": "hello@theromanxpl0.it"
+        },
+        "ctftime": 46516,
+        "logo": "https://theromanxpl0.it/logo/TRX_smooth.png",
+        "activity": {
+            "2025": 57
+        }
+    },
+    {
+        "name": "Srdnlen",
+        "location": [39.215048, 9.105263],
+        "website": "https://srdnlen.it/",
+        "join": {
+            "link": "mailto:srdnlen@gmail.com",
+            "text": "srdnlen@gmail.com"
+        },
+        "ctftime": 46516,
+        "logo": "https://srdnlen.it/img/logo.png",
+        "activity": {
+            "2025": 46
+        }
+    },
+    {
+        "name": "fibonhack",
+        "location": [43.720141, 10.383612],
+        "website": "https://fibonhack.it/",
+        "join": {
+            "link": "mailto:info@fibonhack.it",
+            "text": "info@fibonhack.it"
+        },
+        "ctftime": 117538,
+        "logo": "https://fibonhack.it/logo/transparent/800.png",
+        "activity": {
+            "2025": 22
+        }
+    },
+    {
+        "name": "pwnlentoni",
+        "location": [45.411078, 11.887510],
+        "website": "https://pwnlentoni.team/",
+        "ctftime": 230457,
+        "logo": "https://ctftime.org/media/team/Frame_2.png",
+        "activity": {
+            "2025": 24
+        }
+    },
+    {
+        "name": "Tower of Hanoi",
+        "location": [45.478809, 9.231023],
+        "website": "https://towerofhanoi.it/",
+        "join": {
+            "link": "mailto:towerofhanoictf@gmail.com",
+            "text": "towerofhanoictf@gmail.com"
+        },
+        "ctftime": 300,
+        "logo": "https://ctftime.org/media/team/Tower_withscritta.png",
+        "activity": {
+            "2025": 25
+        }
+    },
+    {
+        "name": "napwnli",
+        "location": [40.837097, 14.306305],
+        "website": "https://napwn.li/",
+        "ctftime": 308814,
+        "logo": "https://napwn.li/img/napwnli.png",
+        "activity": {
+            "2025": 23
+        }
+    },
+    {
+        "name": "Pwnzer0tt1",
+        "location": [41.109272, 16.877607],
+        "website": "https://pwnzer0tt1.it/",
+        "join": {
+            "link": "https://discord.gg/NWyJydmRSg"
+        },
+        "ctftime": 309457,
+        "logo": "https://pwnzer0tt1.it/icon.png",
+        "activity": {
+            "2025": 24
+        }
+    },
+    {
+        "name": "Mntcrl",
+        "location": [41.109272, 16.877607],
+        "website": "https://mntcrl.it/",
+        "join": {
+            "link": "https://discord.mntcrl.it/"
+        },
+        "ctftime": 195096,
+        "logo": "https://www.mntcrl.it/assets/images/logo.png",
+        "activity": {
+            "2025": 13
+        }
+    },
+    {
+        "name": "Pwnissa",
+        "location": [44.403105, 8.958669],
+        "ctftime": 386813,
+        "logo": "https://ctftime.org/media/team/pwnissa_cono_500px.png",
+        "activity": {
+            "2025": 18
+        }
+    },
+    {
+        "name": "pwnthem0le",
+        "location": [45.062308, 7.662680],
+        "website": "https://pwnthem0le.polito.it/",
+        "join": {
+            "link": "https://pwnthem0le.polito.it/recruitment/"
+        },
+        "ctftime": 60467,
+        "logo": "https://ctftime.org/media/team/pwnthem0le3.png",
+        "activity": {
+            "2025": 14
+        }
+    },
+    {
+        "name": "K!nd4SUS",
+        "location": [45.476437, 9.232051],
+        "website": "https://k1nd4sus.it/",
+        "join": {
+            "link": "https://discord.com/invite/6GTSrewn8y"
+        },
+        "ctftime": 150337,
+        "logo": "https://ctftime.org/media/team/apple-touch-icon_1.png",
+        "activity": {
+            "2025": 15
+        }
+    },
+    {
+        "name": "bhackari",
+        "location": [45.478659, 12.255448],
+        "ctftime": 194130,
+        "logo": "https://ctftime.org/media/team/logo_col.jpeg",
+        "activity": {
+            "2025": 10
+        }
+    },
+    {
+        "name": "Hackappatoi",
+        "location": [41.905052, 12.517282],
+        "website": "https://hackappatoi.github.io/",
+        "join": {
+            "link": "https://forms.gle/xbxAhtjynJLGfQvd6"
+        },
+        "ctftime": 140428,
+        "logo": "https://hackappatoi.github.io/assets/img/hackappatoi_logo.png",
+        "activity": {
+            "2025": 4
+        }
+    },
+    {
+        "name": "H4ckan3derl1",
+        "location": [46.479019, 11.329742],
+        "website": "https://www.h4ckan3derl1.tech",
+        "ctftime": 229409,
+        "logo": "https://ctftime.org/media/team/H4ckan3derl1_R3-01.png",
+        "activity": {
+            "2025": 6
+        }
+    },
+    {
+        "name": "Ulisse",
+        "location": [44.4878663, 11.3308352],
+        "website": "https://ctf.ulis.se/",
+        "ctftime": 71738,
+        "logo": "https://ctf.ulis.se/wiki/logo.png",
+        "activity": {
+            "2025": 12
+        }
+    },
+    {
+        "name": "ByteTheCookies",
+        "location": [40.774456, 14.788558],
+        "website": "https://bytethecookies.org/",
+        "join": {
+            "link": "https://discord.gg/6fRmDyVDbs"
+        },
+        "ctftime": 309819,
+        "logo": "https://bytethecookies.org/_astro/logo.I-nutrOi_ZggesP.webp",
+        "activity": {
+            "2025": 12
+        }
+    },
+    {
+        "name": "0xFE",
+        "location": [44.833892, 11.599012],
+        "ctftime": 8163,
+        "logo": "https://ctftime.org/media/team/0xFE_avatar-removebg4.png",
+        "activity": {
+            "2025": 10
+        }
+    },
+    {
+        "name": "havce",
+        "location": [44.766985, 10.315250],
+        "website": "https://havce.it/",
+        "ctftime": 162123,
+        "logo": "https://havce.it/img/logo.svg",
+        "activity": {
+            "2025": 7
+        }
+    },
+    {
+        "name": "PWNC4M",
+        "location": [43.586565, 13.516528],
+        "ctftime": 225699,
+        "logo": "https://ctftime.org/media/team/photo1708769141.jpeg",
+        "activity": {
+            "2025": 4
+        }
+    },
+    {
+        "name": "born2scan",
+        "location": [43.793224, 11.231361],
+        "website": "https://born2scan.run/",
+        "ctftime": 73973,
+        "logo": "https://born2scan.run/assets/img/logo.png",
+        "activity": {
+            "2025": 0
+        }
+    },
+    {
+        "name": "SPhackUsi",
+        "location": [37.503866, 15.087152],
+        "ctftime": 114097,
+        "logo": "https://ctftime.org/media/team/Logo_UniCTF.jpg",
+        "activity": {
+            "2025": 0
+        }
+    }
+]

@@ -1,0 +1,115 @@
+[
+    {
+        "name": "WROng_flag",
+        "location": [51.1110197, 17.0536906],
+        "website": "https://wrongflag.team/",
+        "ctftime": 375467,
+        "logo": "https://ctftime.org/media/team/aa_5.png",
+        "activity": {
+            "2025": 18
+        }
+    },
+    {
+        "name": "viole(n)t",
+        "location": [51.1093851, 17.0584947],
+        "website": "https://violent.team/",
+        "ctftime": 375467,
+        "logo": "https://ctftime.org/media/team/aa_5.png",
+        "activity": {
+            "2025": 54
+        }
+    },
+    {
+        "name": "Hakierspejs",
+        "location": [51.76927, 19.44527],
+        "website": "https://lodz.hackerspace.pl/",
+        "join": {
+            "link": "https://matrix.to/#/#hs-ldz:hackerspace.pl",
+            "text": "#hs-ldz:hackerspace.pl"
+        },
+        "ctftime": 367891,
+        "logo": "https://ctftime.org/media/team/dla-jasnego-tla.png",
+        "activity": {
+            "2025": 29
+        }
+    },
+    {
+        "name": "PWr Synt@x Err0r",
+        "location": [51.1093851, 17.0584947],
+        "website": "https://whitehats.pwr.edu.pl/",
+        "join": {
+            "link": "https://discord.gg/WSFjdn8Cbe"
+        },
+        "ctftime": 88205,
+        "logo": "https://whitehats.pwr.edu.pl/images/logo.svg",
+        "activity": {
+            "2025": 8
+        }
+    },
+    {
+        "name": "pingCTF",
+        "location": [54.371446, 18.619112],
+        "website": "https://knping.pl/",
+        "join": {
+            "link": "https://discord.gg/JyZsMEYGAn"
+        },
+        "ctftime": 147266,
+        "logo": "https://ctftime.org/media/team/logo-na_czarnym_tle-wersja_podstawowa.jpg",
+        "activity": {
+            "2025": 11
+        }
+    },
+    {
+        "name": "lab4",
+        "location": [50.065697, 19.921503],
+        "website": "https://zeroday.agh.edu.pl/",
+        "join": {
+            "link": "https://discord.gg/NWg6TpEvZ8"
+        },
+        "ctftime": 154533,
+        "logo": "https://ctftime.org/media/team/lab4_logo_v2.png",
+        "activity": {
+            "2025": 19
+        }
+    },
+    {
+        "name": "1753c",
+        "location": [50.2636228, 19.0118210],
+        "website": "https://1753c.io/",
+        "join": {
+            "link": "https://discord.com/invite/FFhFVaVKWj"
+        },
+        "ctftime": 178287,
+        "logo": "https://1753c.io/wp-content/uploads/2023/06/15_logo-kolor-150x150.png",
+        "activity": {
+            "2025": 19
+        }
+    },
+    {
+        "name": "SecFault",
+        "location": [50.2883387, 18.6765658],
+        "website": "https://secfault.polsl.pl/",
+        "join": {
+            "link": "mailto:secfault@polsl.pl",
+            "text": "secfault@polsl.pl"
+        },
+        "ctftime": 105779,
+        "logo": "https://secfault.polsl.pl/favicons/favicon-192.png",
+        "activity": {
+            "2025": 8
+        }
+    },
+    {
+        "name": "Wojownicy z Piwnicy",
+        "location": [52.220189, 21.009207],
+        "website": "https://kncyber.pl/",
+        "join": {
+            "link": "https://discord.gg/DjVypPcV8c"
+        },
+        "ctftime": 155060,
+        "logo": "https://ctftime.org/media/team/kncyber_500.png",
+        "activity": {
+            "2025": 1
+        }
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "name": "RoyalRoppers",
+        "website": "https://royalroppers.team/",
+        "location": [59.3487311, 18.0735289],
+        "meetup": "bi-weekly",
+        "join": {
+            "link": "https://forms.gle/sgYP4m2U8mrTjdj3A"
+        },
+        "ctftime": 176008,
+        "logo": "https://ctftime.org/media/team/royal-r-fin-yb-hd.png",
+        "activity": {
+            "2025": 24
+        }
+    },
+    {
+        "name": "ChaGU",
+        "location": [57.6871935, 11.9791532],
+        "ctftime": 145156,
+        "activity": {
+            "2025": 7
+        }
+    },
+    {
+        "name": "KAUotic Hacking Club",
+        "location": [59.404124, 13.581891],
+        "join": {
+            "link": "https://discord.gg/rmEykkCVbg"
+        },
+        "website": "https://www.kauotic.se/",
+        "ctftime": 182388,
+        "logo": "https://ctftime.org/media/team/kauotic-logo_courier.png",
+        "activity": {
+            "2025": 15
+        }
+    }
+]

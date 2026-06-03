@@ -1,0 +1,157 @@
+[
+    {
+        "name": "HDFR",
+        "location": [48.815418, 2.363074],
+        "ctftime": 140217,
+        "logo": "https://ctftime.org/media/team/logo-HDFR-low.jpg",
+        "activity": {
+            "2025": 56
+        }
+    },
+    {
+        "name": "Galette Cidre CTF",
+        "location": [47.644906, -2.748454],
+        "ctftime": 246488,
+        "logo": "https://ctftime.org/media/team/Logo_GCC.png",
+        "activity": {
+            "2025": 14
+        }
+    },
+    {
+        "name": "PHREAKS 2600",
+        "location": [48.7831479, 2.0424378],
+        "website": "https://phreaks2600.fr/",
+        "ctftime": 200877,
+        "logo": "https://ctftime.org/media/team/Phreaks_ReseauxPP_basic.jpg",
+        "activity": {
+            "2025": 17
+        }
+    },
+    {
+        "name": "HackUTT",
+        "location": [48.269162, 4.066529],
+        "website": "https://hack.utt.fr/",
+        "meetup": "twice a week",
+        "ctftime": 38331,
+        "logo": "https://ctftime.org/media/team/Logo-4-color.png",
+        "activity": {
+            "2025": 27
+        }
+    },
+    {
+        "name": "OteriHack",
+        "location": [48.919378, 2.298827],
+        "website": "https://oterihack.com/",
+        "join": {
+            "text": "You must be a student at Oteria Cyber School"
+        },
+        "ctftime": 190074,
+        "logo": "https://ctftime.org/media/team/logooterihack_1.png",
+        "activity": {
+            "2025": 13
+        }
+    },
+    {
+        "name": "DaVinciCode",
+        "location": [48.886556, 2.249376],
+        "website": "https://davincicode.fr/",
+        "join": {
+            "link": "https://discord.gg/eZVXyKgfWP"
+        },
+        "ctftime": 112645,
+        "logo": "https://davincicode.fr/assets/logo_dvc_500x500-dJPTh_vV.png",
+        "activity": {
+            "2025": 21
+        }
+    },
+    {
+        "name": "CTFREI",
+        "location": [48.789427, 2.363973],
+        "website": "https://ctfrei.fr/",
+        "ctftime": 284523,
+        "logo": "https://ctfrei.fr/static-img/default-member.png",
+        "activity": {
+            "2025": 18
+        }
+    },
+    {
+        "name": "TEAM URSSAF",
+        "location": [48.789427, 2.363973],
+        "ctftime": 423339,
+        "logo": "https://ctftime.org/media/team/image_team_urssaf.png",
+        "activity": {
+            "2025": 0
+        }
+    },
+    {
+        "name": "Midnight Flag",
+        "location": [48.049506, -1.737763],
+        "website": "https://midnightflag.fr/",
+        "join": {
+            "link": "https://discord.gg/QyWSpxV2xw"
+        },
+        "ctftime": 179110,
+        "logo": "https://ctftime.org/media/team/logo-midnightflag_500.png",
+        "activity": {
+            "2025": 1
+        }
+    },
+    {
+        "name": "pony7",
+        "location": [43.5615742, 1.4677283],
+        "website": "https://pony7.fr/",
+        "join": {
+            "link": "https://discord.com/invite/bBU3KRGTwq"
+        },
+        "ctftime": 20769,
+        "logo": "https://ctftime.org/media/team/poney.jpg",
+        "activity": {
+            "2025": 5
+        }
+    },
+    {
+        "name": "NOPS",
+        "location": [43.614067, 7.070850],
+        "website": "https://www.nops.re/",
+        "join": {
+            "link": "https://discord.com/invite/xqvnaGzG6x"
+        },
+        "ctftime": 4056,
+        "logo": "https://ctftime.org/media/team/nops.png",
+        "activity": {
+            "2025": 6
+        }
+    },
+    {
+        "name": "Imp'Hackt",
+        "location": [48.7133606, 2.1990021],
+        "ctftime": 156508,
+        "logo": "https://ctftime.org/media/team/logoImpHackt_fond_blanc2.png",
+        "activity": {
+            "2025": 1
+        }
+    },
+    {
+        "name": "HackademINT",
+        "location": [48.6243918, 2.4437749],
+        "website": "https://www.hackademint.org/",
+        "join": {
+            "link": "https://discord.hackademint.org/"
+        },
+        "ctftime": 30462,
+        "logo": "https://ctftime.org/media/team/hackademintsansdate_1.png",
+        "activity": {
+            "2025": 12
+        }
+    },
+    {
+        "name": "APT42",
+        "location": [48.896590, 2.318542],
+        "website": "https://apt42.fr/",
+        "ctftime": 153622,
+        "logo": "https://ctftime.org/media/team/APT42_logoblack_300x300.png",
+        "activity": {
+            "2025": 1
+        }
+    }
+]

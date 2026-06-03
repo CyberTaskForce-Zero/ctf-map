@@ -1,0 +1,58 @@
+[
+    {
+        "name": "0-Day Aarhus",
+        "location": [56.1720420, 10.1889600],
+        "website": "https://0dayaarhus.dk/",
+        "meetup": "weekly, 16:30",
+        "join": {
+            "text": "aHR0cHM6Ly9kaXNjb3JkLmdnL05rRVNQUU1lWjM="
+        },
+        "ctftime": 251818,
+        "logo": "https://0dayaarhus.dk/0-Day-logo.svg",
+        "activity": {
+            "2025": 33
+        }
+    },
+    {
+        "name": "Brunnerne",
+        "location": [55.3668401, 10.4288892],
+        "website": "https://brunnerne.dk/",
+        "join": {
+            "link": "https://discord.com/invite/9axcZmNjPW"
+        },
+        "ctftime": 155032,
+        "logo": "https://brunnerne.dk/assets/logo-bg.webp",
+        "activity": {
+            "2025": 36
+        }
+    },
+    {
+        "name": "Jutlandia",
+        "location": [57.0138, 9.98681],
+        "meetup": "Wednesday, 16:30",
+        "website": "https://jutlandia.club/",
+        "join": {
+            "link": "https://discord.gg/aRrMKBnYze"
+        },
+        "ctftime": 166995,
+        "logo": "https://ctftime.org/media/team/logo_big.png",
+        "activity": {
+            "2025": 11
+        }
+    },
+    {
+        "name": "DTUHAX",
+        "location": [55.7834720, 12.5187290],
+        "meetup": "Wednesday, 17:00",
+        "website": "https://hackerlab.dtu.dk/",
+        "join": {
+            "link": "https://matrix.to/#/#dtuhax:pyjam.as",
+            "text": "#dtuhax:pyjam.as"
+        },
+        "ctftime": 13719,
+        "logo": "https://ctftime.org/media/team/logo_sticker.png",
+        "activity": {
+            "2025": 4
+        }
+    }
+]

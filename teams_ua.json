@@ -1,0 +1,74 @@
+[
+    {
+        "name": "LeetSh4d0ws",
+        "location": [50.4541962, 30.4535973],
+        "website": "https://leetsh4d0ws.org/",
+        "join": {
+            "link": "mailto:leetsh4d0ws@gmail.com",
+            "text": "leetsh4d0ws@gmail.com"
+        },
+        "ctftime": 375238,
+        "logo": "https://leetsh4d0ws.org/assets/logo.jpg",
+        "activity": {
+            "2025": 22
+        }
+    },
+    {
+        "name": "dcua",
+        "location": [50.4541962, 30.4535973],
+        "website": "https://defcon.org.ua/",
+        "join": {
+            "link": "mailto:solarwind@defcon.org.ua",
+            "text": "solarwind@defcon.org.ua"
+        },
+        "ctftime": 762,
+        "logo": "https://ctftime.org/media/team/logo2_2.jpg",
+        "activity": {
+            "2025": 10
+        }
+    },
+    {
+        "name": "milworms",
+        "location": [50.4541962, 30.4535973],
+        "ctftime": 287651,
+        "logo": "https://ctftime.org/media/team/521B4AC1-53C8-45DB-B746-C9F3DB86ADF1.png",
+        "activity": {
+            "2025": 63
+        }
+    },
+    {
+        "name": "CultOfDeadCow",
+        "location": [49.8348693, 24.0083078],
+        "ctftime": 414721,
+        "logo": "https://ctftime.org/media/team/cult-of-the-dead-cow.jpg",
+        "activity": {
+            "2025": 2
+        }
+    },
+    {
+        "name": "Cyber Rangers",
+        "location": [50.2451918, 28.6353210],
+        "ctftime": 87478,
+        "logo": "https://ctftime.org/media/team/21314.png",
+        "activity": {
+            "2025": 20
+        }
+    },
+    {
+        "name": "schwein'o'karas",
+        "location": [50.4653683, 30.5213107],
+        "ctftime": 202337,
+        "activity": {
+            "2025": 5
+        }
+    },
+    {
+        "name": "QuackHack",
+        "location": [50.0045605, 36.2281096],
+        "ctftime": 276388,
+        "logo": "https://ctftime.org/media/team/photo_2024-02-28_21-59-02.jpg",
+        "activity": {
+            "2025": 10
+        }
+    }
+]

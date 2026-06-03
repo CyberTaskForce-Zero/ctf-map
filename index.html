@@ -1,0 +1,231 @@
+<!doctype html>
+<html lang="en-US">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        <title>CTF Team Hometown Map</title>
+
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+            integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+            crossorigin="anonymous"/>
+        <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+            integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+            crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css"
+            integrity="sha384-lPzjPsFQL6te2x+VxmV6q1DpRxpRk0tmnl2cpwAO5y04ESyc752tnEWPKDfl1olr"
+            crossorigin="anonymous"/>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css"
+            integrity="sha384-5kMSQJ6S4Qj5i09mtMNrWpSi8iXw230pKU76xTmrpezGnNJQzj0NzXjQLLg+jE7k"
+            crossorigin="anonymous"/>
+        <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"
+            integrity="sha384-RLIyj5q1b5XJTn0tqUhucRZe40nFTocRP91R/NkRJHwAe4XxnTV77FXy/vGLiec2"
+            crossorigin="anonymous"></script>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+            crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
+            integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB"
+            crossorigin="anonymous">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css"
+            integrity="sha384-CK2SzKma4jA5H/MXDUU7i1TqZlCFaD4T01vtyDFvPlD97JQyS+IsSh1nI2EFbpyk"
+            crossorigin="anonymous">
+
+        <style type="text/css">
+            html, body {
+                padding: 0;
+                margin: 0;
+                height: 100%;
+                width: 100%;
+            }
+            #map {
+                height: 100%;
+            }
+            .leaflet-popup th {
+                padding-left: 0;
+            }
+            .leaflet-popup img {
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                width: 100px;
+            }
+            #about {
+                display: none;
+                height: 100%;
+                overflow: scroll;
+                position: static;
+                transition: none;
+            }
+            #about.show {
+                display: block;
+            }
+            h1, .h1 {
+                font-weight: 700;
+                font-size: 2em;
+            }
+        </style>
+  
+    </head>
+    <body>
+        <div class="offcanvas offcanvas-end float-end" tabindex="-1" id="about" data-bs-backdrop="false" aria-labelledby="aboutLabel">
+            <div class="offcanvas-header">
+                <h5 class="offcanvas-title" id="aboutLabel">About</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+            </div>
+            <div class="offcanvas-body">
+                <p class="mb-1">
+                    I gathered the data by going through all CTF teams in the country stats of CTFtime for the years 2024 - 2026.
+                    As a consequence, a CTF team appears on this map, if
+                </p>
+                <ul>
+                    <li>it is on CTFtime,</li>
+                    <li>is associated with a country,</li>
+                    <li>was among the top 1000 teams in 2024, 2025 or May 2026 and if</li>
+                    <li>I was able to approximate the location</li>
+                </ul>
+                <p>
+                    I determined the location by visiting the website linked on CTFtime.
+                    If the website didn't feature a location or if there was no website, I fell back to the affiliated university.
+                    If I fell back to the university, I tried to set the location near the cyber security or computer science department.
+                    As a consequence, the location is accurate if the marker is on a building and only a rough guess, if it is next to a building.
+                </p>
+                <p>
+                    If you want to change the data, feel free to open a pull request on <a href="https://github.com/CyberTaskForce-Zero/ctf-map">https://github.com/CyberTaskForce-Zero/ctf-map</a>.
+                </p>
+            </div>
+        </div>
+        <div id="map"></div>
+        <script>
+            // init map
+            const map = L.map('map', { zoomControl: false }).setView([52.10, 10.50], 4)
+            L.control.zoom({ position: "topright" }).addTo(map)
+            L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                maxZoom: 19,
+                attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+            }).addTo(map)
+            var markers = L.markerClusterGroup({ maxClusterRadius: 40 })
+            map.addLayer(markers)
+
+            // create about control
+            L.Control.About = L.Control.extend({
+                onAdd: function(map) {
+                    const container = L.DomUtil.create('div', 'leaflet-control-about leaflet-bar')
+                    this._aboutButton = this._createButton("", "About", "about bi bi-info-lg fs-6",  container)
+		            return container
+                },
+
+                onRemove: function(map) {
+                    L.DomEvent.off(this._aboutButton)
+                },
+
+                _createButton(html, title, className, container) {
+                    const link = L.DomUtil.create('a', className, container)
+                    link.innerHTML = html
+                    link.href = '#'
+                    link.title = title
+
+                    /*
+                    * Will force screen readers like VoiceOver to read this as "About - button"
+                    */
+                    link.setAttribute('role', 'button')
+                    link.setAttribute('aria-label', title)
+                    link.setAttribute('data-bs-toggle', "offcanvas")
+                    link.setAttribute('data-bs-target', '#about')
+
+                    L.DomEvent.disableClickPropagation(link)
+                    L.DomEvent.on(link, 'click', L.DomEvent.stop)
+
+                    return link
+                }
+            });
+
+            L.control.about = function(opts) {
+                return new L.Control.About(opts)
+            }
+
+            L.control.about({ position: 'topright' }).addTo(map);
+
+            // fetch teams
+            for (const country of ["de", "at", "ch", "nl", "be", "dk", "cz", "pl", "gb", "no", "se", "si", "ua", "ro", "by", "pt", "gr", "es", "it", "fr"]) {
+                fetch(`teams_${country}.json`)
+                .then(res => {
+                    if (!res.ok) {
+                        console.log("Failed to fetch teams.")
+                        throw res
+                    }
+                    return res.json()
+                }).then(teams => {
+                    for (const team of teams) {
+                        const content = document.createElement("div")
+
+                        const logo = document.createElement("img")
+                        if (team.logo) {
+                            logo.loading = "lazy"
+                            logo.src = team.logo
+                            logo.classList = ["figure-img"]
+                            content.appendChild(logo)
+                        }
+
+                        const name = document.createElement("h1")
+                        name.innerText = team.name
+                        content.appendChild(name)
+
+                        const table = document.createElement("table")
+
+                        if (team.website) {
+                            const link = document.createElement("a")
+                            link.href = team.website
+                            link.innerText = team.website
+                            const websiteRef = document.createElement("td")
+                            websiteRef.appendChild(link)
+                            const websiteHeading = document.createElement("th")
+                            websiteHeading.innerText = "Website:"
+                            const website = document.createElement("tr")
+                            website.appendChild(websiteHeading)
+                            website.appendChild(websiteRef)
+                            table.appendChild(website)
+                        }
+
+                        if (team.meetup) {
+                            const meetup = document.createElement("tr")
+                            const meetupHeading = document.createElement("th")
+                            meetupHeading.innerText = "Meetup:"
+                            const meetupTime = document.createElement("td")
+                            meetupTime.innerText = team.meetup
+                            meetup.appendChild(meetupHeading)
+                            meetup.appendChild(meetupTime)
+                            table.appendChild(meetup)
+                        }
+
+                        if (team.join) {
+                            const joinLink = document.createElement("a")
+                            joinLink.href = team.join.link ?? ""
+                            joinLink.innerText = team.join.text ?? team.join.link
+                            const joinRef = document.createElement("td")
+                            joinRef.appendChild(joinLink)
+                            const joinHeading = document.createElement("th")
+                            joinHeading.innerText = "Join:"
+                            const join = document.createElement("tr")
+                            join.appendChild(joinHeading)
+                            join.appendChild(joinRef)
+                            table.appendChild(join)
+                        }
+
+                        content.appendChild(table)
+                        content.appendChild(document.createElement("br"))
+
+                        const ctftimeLink = document.createElement("a")
+                        ctftimeLink.href = "https://ctftime.org/team/" + team.ctftime
+                        ctftimeLink.innerText = "Visit on CTFtime"
+                        content.appendChild(ctftimeLink)
+
+                        const popup = L.popup().setContent(content)
+                        logo.onload = () => { popup.update() }
+                        markers.addLayer(L.marker(team.location).bindPopup(popup))
+                    }
+                })
+            }
+        </script>
+    </body>
+</html>

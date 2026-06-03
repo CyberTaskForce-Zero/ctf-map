@@ -1,0 +1,35 @@
+[
+    {
+        "name": "STT",
+        "location": [38.737268, -9.137860],
+        "website": "https://sectt.github.io/",
+        "meetup": "Monday, 17:30",
+        "join": {
+            "link": "https://forms.gle/isHq6UNKjiDJ7k5c9"
+        },
+        "ctftime": 34619,
+        "logo": "https://sectt.github.io/favicon.png",
+        "activity": {
+            "2025": 19
+        }
+    },
+    {
+        "name": "xSTF",
+        "location": [41.152610, -8.640870],
+        "website": "https://xstf.pt/",
+        "ctftime": 15341,
+        "logo": "https://xstf.pt/assets/xstf-logo-icon.svg",
+        "activity": {
+            "2025": 43
+        }
+    },
+    {
+        "name": "UAC",
+        "location": [40.6330477, -8.6596436],
+        "ctftime": 140846,
+        "logo": "https://ctftime.org/media/team/uac.png",
+        "activity": {
+            "2025": 43
+        }
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "name": "UVT-CTF",
+        "location": [45.747359, 21.231382],
+        "website": "https://cybersec.uvt.ro/",
+        "join": {
+            "link": "https://cybersec.uvt.ro/GetInTouch/"
+        },
+        "ctftime": 214520,
+        "logo": "https://cybersec.uvt.ro/assets/images/Cyber-Logo.jpg",
+        "activity": {
+            "2025": 18
+        }
+    },
+    {
+        "name": "Safe Hex Only",
+        "location": [45.747359, 21.231382],
+        "ctftime": 414423,
+        "activity": {
+            "2025": 1
+        }
+    },
+    {
+        "name": "ret2future",
+        "location": [44.447585, 26.099229],
+        "website": "https://ret2future.ase.ro/",
+        "ctftime": 427563,
+        "logo": "https://ret2future.ase.ro/img/ORIGINAL_ret2future_logo_black_background.jpeg",
+        "activity": {
+            "2025": 0
+        }
+    },
+    {
+        "name": "Banbits",
+        "location": [44.447585, 26.099229],
+        "ctftime": 411985,
+        "logo": "https://ctftime.org/media/team/Gemini_Generated_Image_iaq6iviaq6iviaq6_1.png",
+        "activity": {
+            "2025": 0
+        }
+    },
+    {
+        "name": "sett49",
+        "location": [44.418119, 26.086049],
+        "ctftime": 422471,
+        "logo": "https://ctftime.org/media/team/logo_637.png",
+        "activity": {
+            "2025": 0
+        }
+    },
+    {
+        "name": ".hidden",
+        "location": [44.434031, 26.041173],
+        "website": "https://dothidden.xyz/",
+        "meetup": "Last Wednesday of the month",
+        "join": {
+            "text": "Y29udGFjdEBkb3RoaWRkZW4ueHl6Cg=="
+        },
+        "ctftime": 225182,
+        "logo": "https://dothidden.xyz/images/logo-192x192.png",
+        "activity": {
+            "2025": 10
+        }
+    }
+]

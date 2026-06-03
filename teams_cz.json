@@ -1,0 +1,20 @@
+[
+    {
+        "name": "LutaNaRyj",
+        "location": [49.5707, 16.0794],
+        "ctftime": 231413,
+        "logo": "https://ctftime.org/media/team/kret_1.png",
+        "activity": {
+            "2025": 6
+        }
+    },
+    {
+        "name": "Nukleární Okurky",
+        "location": [50.2039560, 15.8293817],
+        "ctftime": 408040,
+        "logo": "https://ctftime.org/media/team/Nuklearniokurky.png",
+        "activity": {
+            "2025": 2
+        }
+    }
+]

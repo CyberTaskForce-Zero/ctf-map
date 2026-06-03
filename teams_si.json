@@ -1,0 +1,15 @@
+[
+    {
+        "name": "DragonSec SI",
+        "location": [46.0501024, 14.4687187],
+        "website": "https://dragonsec.si/en/",
+        "join": {
+            "link": "https://dragonsec.si/en/#izziv_space"
+        },
+        "ctftime": 113511,
+        "logo": "https://dragonsec.si/logo/dragonsvg.svg",
+        "activity": {
+            "2025": 18
+        }
+    }
+]

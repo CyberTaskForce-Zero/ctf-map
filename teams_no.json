@@ -1,0 +1,45 @@
+[
+    {
+        "name": "IQ-toppene",
+        "location": [60.7883307, 10.6793021],
+        "website": "https://iku-toppene.no/",
+        "ctftime": 109611,
+        "logo": "https://ctftime.org/media/team/highiq_1.jpg",
+        "activity": {
+            "2025": 11
+        }
+    },
+    {
+        "name": "Itemize",
+        "location": [63.4186090, 10.4014865],
+        "website": "https://itemize.no/",
+        "join": {
+            "link": "https://discord.gg/3NAzCuA"
+        },
+        "ctftime": 11404,
+        "logo": "https://itemize.no/icon.svg",
+        "activity": {
+            "2025": 14
+        }
+    },
+    {
+        "name": "LOLExEc",
+        "location": [ 60.7898094, 10.6833678],
+        "website": "https://lolexec.no/",
+        "ctftime": 410745,
+        "logo": "https://ctftime.org/media/team/de590ed6d9433a30c343aacf5a3a93af.jpg",
+        "activity": {
+            "2025": 5
+        }
+    },
+    {
+        "name": "Ekho",
+        "location": [ 60.7898094, 10.6833678],
+        "website": "https://www.ekho.sh/",
+        "ctftime": 364061,
+        "logo": "https://ctftime.org/media/team/ekho_logo_crop.png",
+        "activity": {
+            "2025": 33
+        }
+    }
+]

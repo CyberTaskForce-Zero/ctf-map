@@ -1,0 +1,69 @@
+[
+    {
+        "name": "TU Delft CTF Team",
+        "location": [51.9987725, 4.3775068],
+        "website": "https://ctf.ewi.tudelft.nl/",
+        "meetup": "Tuesday",
+        "join": {
+            "link": "https://discord.gg/J8edqXwTJ7"
+        },
+        "ctftime": 134822,
+        "activity": {
+            "2025": 15
+        }
+    },
+    {
+        "name": "MaaSec",
+        "location": [51.1702434, 4.3483985],
+        "website": "https://www.maasec.com/",
+        "join": {
+            "link": "https://discord.com/invite/ghpWe7wawV"
+        },
+        "ctftime": 365940,
+        "logo": "https://ctftime.org/media/team/maasec-logo.jpeg",
+        "activity": {
+            "2025": 11
+        }
+    },
+    {
+        "name": "UT-THS",
+        "location": [52.2431761, 6.8512867],
+        "website": "https://ths.eemcs.utwente.nl/",
+        "join": {
+            "link": "https://www.lists.utwente.nl/cgi-bin/wa.exe?SUBED1=THS&A=1"
+        },
+        "ctftime": 200263,
+        "logo": "https://ths.eemcs.utwente.nl/static/frontend/challenges/img/g8793.png",
+        "activity": {
+            "2025": 3
+        }
+    },
+    {
+        "name": "Radboud Institute of Pwning",
+        "location": [51.8253795, 5.8686891],
+        "website": "https://radboudinstituteof.pwning.nl/",
+        "meetup": "Tuesday, 17:30",
+        "join": {
+            "link": "https://discord.pwning.nl/"
+        },
+        "ctftime": 128996,
+        "logo": "https://ctftime.org/media/team/pwning.png",
+        "activity": {
+            "2025": 5
+        }
+    },
+    {
+        "name": "vubar",
+        "location": [52.334593, 4.863752],
+        "website": "https://studsec.nl/",
+        "meetup": "Thursday, 17:30 (bi-weekly)",
+        "join": {
+            "link": "https://url.studsec.nl/discord"
+        },
+        "ctftime": 1353,
+        "logo": "https://ctftime.org/media/team/vusec-logo_small-768x768.png",
+        "activity": {
+            "2025": 0
+        }
+    }
+]

@@ -1,0 +1,279 @@
+[
+    {
+        "name": "CyberTaskForce Zero",
+        "location": [52.2786094, 10.5210984],
+        "website": "https://ctf0.de/",
+        "meetup": "Tuesday, 18:00 (bi-weekly)",
+        "join": {
+            "link": "https://matrix.to/#/#ctf_zero:stratum0.org?via=stratum0.org&via=matrix.org&via=entropia.de",
+            "text": "#ctf_zero:stratum0.org"
+        },
+        "ctftime": 66229,
+        "logo": "https://ctftime.org/media/team/ctf0.png",
+        "activity": {
+            "2025": 20
+        }
+    },
+    {
+        "name": "RedRocket",
+        "location": [50.7365941, 7.0896275],
+        "website": "https://redrocket.club/",
+        "join": {
+            "link": "https://discord.gg/5YktcJZ"
+        },
+        "ctftime": 48677,
+        "logo": "https://redrocket.club/img/logo.svg",
+        "activity": {
+            "2025": 9
+        }
+    },
+    {
+        "name": "FluxFingers",
+        "location": [51.4437957, 7.2570781],
+        "website": "https://fluxfingers.net/",
+        "meetup": "Tuesday, 17:00",
+        "join": {
+            "link": "https://fluxfingers.net/discord"
+        },
+        "ctftime": 551,
+        "logo": "https://ctftime.org/media/team/FluxFingers-Symbol-Squered-Blue-Green-512px.png",
+        "activity": {
+            "2025": 23
+        }
+    },
+    {
+        "name": "FAUST",
+        "location": [49.573805, 11.027122],
+        "website": "https://faust.cs.fau.de/",
+        "meetup": "Thursday, 18:00",
+        "join": {
+            "link": "https://lists.fau.de/cgi-bin/listinfo/hsg-faust-ctf"
+        },
+        "ctftime": 550,
+        "logo": "https://faust.cs.fau.de/faust.svg",
+        "activity": {
+            "2025": 9
+        }
+    },
+    {
+        "name": "ENOFLAG",
+        "location": [52.516616, 13.323446],
+        "website": "https://ag-rechnersicherheit.de/",
+        "meetup": "Tuesday, 18:00 - 20:00",
+        "join": {
+            "link": "mailto:hi@ag-rechnersicherheit.de",
+            "text": "hi@ag-rechnersicherheit.de"
+        },
+        "ctftime": 1438,
+        "logo": "https://ctftime.org/media/team/eno-logo.png",
+        "activity": {
+            "2025": 11
+        }
+    },
+    {
+        "name": "saarsec",
+        "location": [49.2594678, 7.0516963],
+        "website": "https://saarsec.rocks/",
+        "meetup": "weekly",
+        "ctftime": 15337,
+        "logo": "https://saarsec.rocks/static/img/saarsec.svg",
+        "activity": {
+            "2025": 15
+        }
+    },
+    {
+        "name": "KITCTF",
+        "location": [49.0138748, 8.4193739],
+        "website": "https://kitctf.de/",
+        "meetup": "Thursday, 19:00",
+        "join": {
+            "link": "mailto:team@kitctf.de",
+            "text": "team@kitctf.de"
+        },
+        "ctftime": 7221,
+        "logo": "https://kitctf.de/imgs/logo.svg",
+        "activity": {
+            "2025": 15
+        }
+    },
+    {
+        "name": "Platypwnies",
+        "location": [52.393928, 13.133444],
+        "website": "https://platypwnies.de/",
+        "ctftime": 112550,
+        "logo": "https://platypwnies.de/logo.png",
+        "activity": {
+            "2025": 12
+        }
+    },
+    {
+        "name": "upbhack",
+        "location": [51.70749, 8.77106],
+        "website": "https://upbhack.de/",
+        "meetup": "First Friday of the month",
+        "join": {
+            "link": "https://discord.gg/F2FFY9e"
+        },
+        "ctftime": 57581,
+        "logo": "https://ctftime.org/media/team/upbhack_1.png",
+        "activity": {
+            "2025": 29
+        }
+    },
+    {
+        "name": "Pwn-la-Chapelle",
+        "location": [50.7775943, 6.0821634],
+        "website": "https://pwn-la-chapelle.eu/",
+        "meetup": "Thursday, 17:00 (bi-weekly)",
+        "join": {
+            "link": "https://discord.gg/Ubjqwm7N3B"
+        },
+        "ctftime": 279433,
+        "logo": "https://pwn-la-chapelle.eu/img/pwn_logo_file_hu11041960313548565807.png",
+        "activity": {
+            "2025": 17
+        }
+    },
+    {
+        "name": "Hacklabor",
+        "location": [53.6010948, 11.4182505],
+        "website": "https://www.hacklabor.de/",
+        "ctftime": 42892,
+        "logo": "https://ctftime.org/media/team/large_Logo_periodic-2017-12-30_12-24-39.png",
+        "activity": {
+            "2025": 25
+        }
+    },
+    {
+        "name": "ssh@uzl",
+        "location": [53.8337871, 10.7039453],
+        "website": "https://sshuzl.de/",
+        "ctftime": 61483,
+        "logo": "https://sshuzl.de/img/logo.png",
+        "activity": {
+            "2025": 12
+        }
+    },
+    {
+        "name": "Squareroots",
+        "location": [49.4876167, 8.4577278],
+        "ctftime": 554,
+        "logo": "https://ctftime.org/media/team/squareroots_bigger.png",
+        "activity": {
+            "2025": 3
+        }
+    },
+    {
+        "name": "M.I.S.T.",
+        "location": [52.142842, 7.321669],
+        "ctftime": 6796,
+        "logo": "https://ctftime.org/media/team/Logo_MIST_s_2.jpg",
+        "activity": {
+            "2025": 3
+        }
+    },
+    {
+        "name": "h4tum",
+        "location": [48.2626447, 11.6694955],
+        "ctftime": 113083,
+        "logo": "https://ctftime.org/media/team/h4tum_emoji.png",
+        "activity": {
+            "2025": 30
+        }
+    },
+    {
+        "name": "IT-Security Club",
+        "location": [50.9464309, 6.8870038],
+        "ctftime": 274079,
+        "logo": "https://ctftime.org/media/team/ITSC_Logo_4.png",
+        "activity": {
+            "2025": 18
+        }
+    },
+    {
+        "name": "CCCAC",
+        "location": [50.7716741, 6.0914786],
+        "ctftime": 555,
+        "logo": "https://ctftime.org/media/team/cccac_logo_bw_kleiner_1.png",
+        "activity": {
+            "2025": 1
+        }
+    },
+    {
+        "name": "backspace",
+        "location": [49.9018345, 10.8927638],
+        "website": "https://www.hackerspace-bamberg.de/",
+        "ctftime": 3277,
+        "logo": "https://ctftime.org/media/team/Backspace_logo_white.png",
+        "activity": {
+            "2025": 2
+        }
+    },
+    {
+        "name": "zwiebel",
+        "location": [48.7414923, 9.3119168],
+        "website": "https://makerspace-esslingen.de/",
+        "ctftime": 133560,
+        "logo": "https://ctftime.org/media/team/zwiebel_small_2.png",
+        "activity": {
+            "2025": 1
+        }
+    },
+    {
+        "name": "DU4L",
+        "location": [49.4734287, 8.5351784],
+        "ctftime": 133447,
+        "activity": {
+            "2025": 6
+        }
+    },
+    {
+        "name": "SYNN3R",
+        "location": [52.4562089, 13.5260198],
+        "ctftime": 179997,
+        "logo": "https://ctftime.org/media/team/b-modified_1.png",
+        "activity": {
+            "2025": 6
+        }
+    },
+    {
+        "name": "Phish2Own",
+        "location": [ 53.5401145, 8.5834417],
+        "ctftime": 155691,
+        "logo": "https://ctftime.org/media/team/p2o-squared.png",
+        "activity": {
+            "2025": 1
+        }
+    },
+    {
+        "name": "Bitwalkers",
+        "location": [49.8776376, 8.6549215],
+        "ctftime": 361942,
+        "activity": {
+            "2025": 9
+        }
+    },
+    {
+        "name": "p4wnWAT",
+        "location": [48.1536330, 11.5607605],
+        "website": "https://wiki.muc.ccc.de/ctf:start",
+        "join": {
+            "link": "https://matrix.to/#/#ccctf:darkfasel.net",
+            "text": "#ccctf:darkfasel.net"
+        },
+        "ctftime": 50673,
+        "activity": {
+            "2025": 0
+        }
+    },
+    {
+        "name": "neuland",
+        "location": [48.766734, 11.433045],
+        "website": "https://neuland-ingolstadt.de/",
+        "ctftime": 17039,
+        "logo": "https://ctftime.org/media/team/neuland.png",
+        "activity": {
+            "2025": 0
+        }
+    }
+]

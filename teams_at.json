@@ -1,0 +1,57 @@
+[
+    {
+        "name": "HgbSec",
+        "location": [48.368347, 14.514486],
+        "website": "https://hgbsec.at/",
+        "join": {
+            "link": "https://hgbsec.at/join/"
+        },
+        "ctftime": 59175,
+        "logo": "https://hgbsec.at/android-chrome-512x512.png",
+        "activity": {
+            "2025": 19
+        }
+    },
+    {
+        "name": "LosFuzzys",
+        "location": [47.0596261, 15.4596546],
+        "website": "https://losfuzzys.net/",
+        "meetup": "Wednesday, 18:30",
+        "join": {
+            "link": "https://discord.gg/RrUKAvGB2N"
+        },
+        "ctftime": 8323,
+        "logo": "https://ctftime.org/media/team/kreis_rot_web_1.png",
+        "activity": {
+            "2025": 20
+        }
+    },
+    {
+        "name": "WE_0WN_Y0U",
+        "location": [48.2080838, 16.3715166],
+        "website": "https://w0y.at/",
+        "join": {
+            "link": "mailto:contact@w0y.at",
+            "text": "contact@w0y.at"
+        },
+        "ctftime": 1964,
+        "logo": "https://ctftime.org/media/team/logo_square_256x256_whitebg.png",
+        "activity": {
+            "2025": 22
+        }
+    },
+    {
+        "name": "SIGFLAG",
+        "location": [48.3320466, 14.3178103],
+        "website": "https://sigflag.at/",
+        "meetup": "Last Thursday of the month",
+        "join": {
+            "link": "https://discord.gg/5SvkDWs"
+        },
+        "ctftime": 32127,
+        "logo": "https://ctftime.org/media/team/sigflag-logo-512px.png",
+        "activity": {
+            "2025": 9
+        }
+    }
+]
