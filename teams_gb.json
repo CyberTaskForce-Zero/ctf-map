@@ -33,5 +33,17 @@
         "activity": {
             "2025": 1
         }
-}
+    },
+    {
+        "name": "OP_EN",
+        "location": [52.0248000, -0.7097020],
+        "join": {
+            "link": "https://discord.com/invite/A2pPwnUuue"
+        },
+        "ctftime": 150351,
+        "logo": "https://ctftime.org/media/team/000026.png",
+        "activity": {
+            "2025": 56
+        }
+    }
 ]
