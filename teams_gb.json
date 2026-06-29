@@ -1,5 +1,18 @@
 [
     {
+        "name": "OP_EN",
+        "location": [52.0248000, -0.7097020],
+        "website": "https://oucss.rocks/",
+        "join": {
+            "link": "https://discord.com/invite/A2pPwnUuue"
+        },
+        "ctftime": 150351,
+        "logo": "https://ctftime.org//media/team/000026.png",
+        "activity": {
+            "2025": 56
+        }
+    },
+    {
         "name": "siginthq",
         "location": [55.9451120, -3.1872449],
         "website": "https://sigint.mx/",
@@ -33,5 +46,5 @@
         "activity": {
             "2025": 1
         }
-}
+    }
 ]
