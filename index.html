@@ -147,7 +147,7 @@
             L.control.about({ position: 'topright' }).addTo(map);
 
             // fetch teams
-            for (const country of ["de", "at", "ch", "nl", "be", "dk", "cz", "pl", "gb", "no", "se", "si", "ua", "ro", "by", "pt", "gr", "es", "it", "fr", "ca", "au"]) {
+            for (const country of ["de", "at", "ch", "nl", "be", "dk", "cz", "pl", "gb", "no", "se", "si", "ua", "ro", "by", "pt", "gr", "es", "it", "fr", "ca", "au", "nz"]) {
                 fetch(`teams_${country}.json`)
                 .then(res => {
                     if (!res.ok) {
