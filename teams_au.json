@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Emu Exploit",
+        "location": [-31.9778600, 115.8163434],
+        "website": "https://emu.team/",
+        "join": {
+            "link": "https://discord.gg/RQy6eSNAbcP"
+        },
+        "ctftime": 160273,
+        "logo": "https://ctftime.org/media/team/pissed_emu_logo.png",
+        "activity": {
+            "2025": 16
+        }
+    },
+    {
+        "name": "K17",
+        "location": [-33.918945, 151.231155],
+        "website": "https://unswsecurity.com/",
+        "join": {
+            "link": "https://secso.cc/discord"
+        },
+        "ctftime": 17058,
+        "logo": "https://ctftime.org/media/team/ciffy.png",
+        "activity": {
+            "2025": 23
+        }
+    },
+    {
+        "name": "MQCyberSec",
+        "location": [-33.774847, 151.117778],
+        "website": "https://mqcybersec.org/",
+        "meetup": "Thursday, 17:00 - 19:00",
+        "join": {
+            "link": "https://discord.gg/8uvnhG8EED"
+        },
+        "ctftime": 112620,
+        "logo": "https://ctftime.org/media/team/DiscordLogo1.png",
+        "activity": {
+            "2025": 28
+        }
+    },
+    {
+        "name": "misc",
+        "location": [-37.8003479, 144.9641961],
+        "website": "https://www.umisc.club/",
+        "join": {
+            "link": "https://discord.gg/PybR9kpBMn"
+        },
+        "ctftime": 109523,
+        "logo": "https://ctftime.org/media/team/misc_logo_text_black_2.png",
+        "activity": {
+            "2025": 8
+        }
+    },
+    {
+        "name": "AdelaideB9",
+        "location": [-34.9184824, 138.6110469],
+        "website": "https://adelaideb9.com/",
+        "join": {
+            "link": "https://discord.gg/M3x2Bkbb3N"
+        },
+        "ctftime": 147168,
+        "logo": "https://adelaideb9.com/img/logo.png",
+        "activity": {
+            "2025": 4
+        }
+    }
+]
