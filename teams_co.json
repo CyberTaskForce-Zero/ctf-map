@@ -1,0 +1,25 @@
+[
+    {
+        "name": "Uqbar",
+        "location": [4.638031, -74.084756],
+        "website": "https://uqbarun.github.io/",
+        "ctftime": 250938,
+        "logo": "https://ctftime.org/media/team/uqbarun.jpg",
+        "activity": {
+            "2025": 10
+        }
+    },
+    {
+        "name": "Ch0wn3rs",
+        "location": [6.2422449, -75.5898261],
+        "website": "https://ch0wn3rs.ninja/",
+        "join": {
+            "link": "https://discord.gg/7kfEz7xQKp"
+        },
+        "ctftime": 408704,
+        "logo": "https://ch0wn3rs.ninja/Logo-qr.jpeg",
+        "activity": {
+            "2025": 0
+        }
+    }
+]
