@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Ganesh",
+        "location": [-22.0073422, -47.8948672],
+        "website": "https://ganesh.icmc.usp.br/",
+        "meetup": "weekly",
+        "ctftime": 54706,
+        "logo": "https://ctftime.org/media/team/ColoridoFundo_-_Copia.png",
+        "activity": {
+            "2025": 53
+        }
+    },
+    {
+        "name": "Duckware",
+        "location": [-22.256867, -45.696588],
+        "ctftime": 355851,
+        "logo": "https://ctftime.org/media/team/the_head_of_a_yellow_rubber_duck_with_a_black_cap_on_a_sticker_style.jpg",
+        "activity": {
+            "2025": 15
+        }
+    },
+    {
+        "name": "Hawksec UNIFEI",
+        "location": [-22.4125232, -45.4493545],
+        "ctftime": 226098,
+        "logo": "https://ctftime.org/media/team/hawksec.jpg",
+        "activity": {
+            "2025": 39
+        }
+    },
+    {
+        "name": "SeaDragons",
+        "location": [-3.7462769, -38.5741087],
+        "ctftime": 191005,
+        "logo": "https://ctftime.org/media/team/SeaDragons.png",
+        "activity": {
+            "2025": 6
+        }
+    },
+    {
+        "name": "GRIS",
+        "location": [-22.858149, -43.233417],
+        "website": "https://grisufrj.com/",
+        "ctftime": 926,
+        "logo": "https://ctftime.org/media/team/logo-profile_dark.jpg",
+        "activity": {
+            "2025": 28
+        }
+    }
+]
