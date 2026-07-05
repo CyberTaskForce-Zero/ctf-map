@@ -1,0 +1,20 @@
+[
+    {
+        "name": "{The NaN Squad}",
+        "location": [53.347948, -6.274931],
+        "ctftime": 150063,
+        "logo": "https://ctftime.org/media/team/memes.jpg",
+        "activity": {
+            "2025": 4
+        }
+    },
+    {
+        "name": "The Dec1phers",
+        "location": [53.2804789, -9.0590061],
+        "ctftime": 176783,
+        "logo": "https://ctftime.org/media/team/dec1phers.PNG",
+        "activity": {
+            "2025": 0
+        }
+    }
+]
