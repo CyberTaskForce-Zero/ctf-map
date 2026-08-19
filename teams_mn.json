@@ -1,0 +1,29 @@
+[
+    {
+        "name": "AreDaYush?",
+        "location": [47.9219560, 106.9247010],
+        "ctftime": 230725,
+        "logo": "https://ctftime.org/media/team/warrior_2.png",
+        "activity": {
+            "2025": 50
+        }
+    },
+    {
+        "name": "hackratic",
+        "location": [47.9219560, 106.9247010],
+        "ctftime": 300432,
+        "logo": "https://ctftime.org/media/team/HACKRATIC.png",
+        "activity": {
+            "2025": 78
+        }
+    },
+    {
+        "name": "babyd0nthurtm3",
+        "location": [47.9219560, 106.9247010],
+        "ctftime": 277693,
+        "logo": "https://ctftime.org/media/team/mike-ohearn-5.jpg",
+        "activity": {
+            "2025": 1
+        }
+    }
+]
