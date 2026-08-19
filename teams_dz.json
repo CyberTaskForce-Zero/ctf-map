@@ -1,0 +1,91 @@
+[
+    {
+        "name": "CascRoot",
+        "location": [36.663643, 4.912517],
+        "ctftime": 373919,
+        "logo": "https://ctftime.org/media/team/Logo_cascroot_2.png",
+        "activity": {
+            "2025": 29
+        }
+    },
+    {
+        "name": "Underr00ted",
+        "location": [36.712691, 3.180338],
+        "ctftime": 385890,
+        "logo": "https://ctftime.org/media/team/logo_580.png",
+        "activity": {
+            "2025": 36
+        }
+    },
+    {
+        "name": "Heaven's_Birds",
+        "location": [36.705034, 3.173697],
+        "ctftime": 142149,
+        "logo": "https://ctftime.org/media/team/havena_06_Recovered-01.png",
+        "activity": {
+            "2025": 4
+        }
+    },
+    {
+        "name": "m1nt4l1ty",
+        "location": [36.705034, 3.173697],
+        "ctftime": 284402,
+        "logo": "https://ctftime.org/media/team/2025-04-03_10-05.png",
+        "activity": {
+            "2025": 35
+        }
+    },
+    {
+        "name": "1nno$leuths",
+        "location": [36.689410, 2.862134],
+        "ctftime": 372194,
+        "logo": "https://ctftime.org/media/team/1nnoleuths.png",
+        "activity": {
+            "2025": 33
+        }
+    },
+    {
+        "name": "sarrus",
+        "location": [36.705034, 3.173697],
+        "ctftime": 393723,
+        "logo": "https://ctftime.org/media/team/images_39_1.jpg",
+        "activity": {
+            "2025": 4
+        }
+    },
+    {
+        "name": "0xReqs",
+        "location": [36.712691, 3.180338],
+        "ctftime": 418099,
+        "logo": "https://ctftime.org/media/team/LoDi-Stylized_lettermark__r...-Dec_22_2025_13_17-rs0w.png",
+        "activity": {
+            "2025": 1
+        }
+    },
+    {
+        "name": "C0mp13x_7he0r3m",
+        "location": [36.689410, 2.862134],
+        "ctftime": 417069,
+        "logo": "https://ctftime.org/media/team/whitebalck.png",
+        "activity": {
+            "2025": 2
+        }
+    },
+    {
+        "name": "div0",
+        "location": [36.712691, 3.180338],
+        "ctftime": 44296,
+        "activity": {
+            "2025": 0
+        }
+    },
+    {
+        "name": "Khar9ana",
+        "location": [36.504022, 2.875940],
+        "ctftime": 416999,
+        "logo": "https://ctftime.org/media/team/khar9ana_logo.png",
+        "activity": {
+            "2025": 4
+        }
+    }
+]
