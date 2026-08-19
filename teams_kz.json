@@ -1,0 +1,65 @@
+[
+    {
+        "name": "FR13NDS TEAM",
+        "location": [51.1262876, 71.4486489],
+        "ctftime": 155678,
+        "logo": "https://ctftime.org/media/team/logo_var13.png",
+        "activity": {
+            "2025": 37
+        }
+    },
+    {
+        "name": "HackOrda",
+        "location": [51.091337, 71.418804],
+        "ctftime": 367962,
+        "logo": "https://ctftime.org/media/team/HackOrda-logo-1024.png",
+        "activity": {
+            "2025": 13
+        }
+    },
+    {
+        "name": "mimicats",
+        "location": [43.2238596, 76.9227344],
+        "ctftime": 271292,
+        "logo": "https://ctftime.org/media/team/mimicats_logo.png",
+        "activity": {
+            "2025": 23
+        }
+    },
+    {
+        "name": "ZeroTrust",
+        "location": [51.1262876, 71.4486489],
+        "ctftime": 155678,
+        "logo": "https://ctftime.org/media/team/logo_var13.png",
+        "activity": {
+            "2025": 27
+        }
+    },
+    {
+        "name": "ksturobot",
+        "location": [49.8184091, 73.1041700],
+        "ctftime": 406743,
+        "logo": "https://ctftime.org/media/team/logoksturobot.jpg",
+        "activity": {
+            "2025": 11
+        }
+    },
+    {
+        "name": "APC L3gi0N",
+        "location": [50.289014, 57.149712],
+        "ctftime": 414541,
+        "logo": "https://ctftime.org/media/team/photo_2026-04-07_02-15-58_1.jpg",
+        "activity": {
+            "2025": 3
+        }
+    },
+    {
+        "name": "fanztrevah",
+        "location": [51.091337, 71.418804],
+        "ctftime": 380816,
+        "logo": "https://ctftime.org/media/team/fanztrevahlogo.jpg",
+        "activity": {
+            "2025": 0
+        }
+    }
+]
