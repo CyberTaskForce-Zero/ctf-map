@@ -1,0 +1,152 @@
+[
+    {
+        "name": "CyberTaskForce Zero",
+        "location": [52.2786094, 10.5210984],
+        "website": "https://ctf0.de/",
+        "meetup": "Tuesday, 18:00 (bi-weekly)",
+        "join": {
+            "link": "https://matrix.to/#/#ctf_zero:stratum0.org?via=stratum0.org&via=matrix.org&via=entropia.de",
+            "text": "#ctf_zero:stratum0.org"
+        },
+        "ctftime": 66229,
+        "logo": "https://ctftime.org/media/team/ctf0.png",
+        "activity": {
+            "2025": 20
+        }
+    },
+    {
+        "name": "M4SEC",
+        "location": [33.980380, -6.729247],
+        "website": "https://m4sec.team/",
+        "ctftime": 368396,
+        "logo": "https://ctftime.org/media/team/file_0000000026b861f7a35288ade95573d4.png",
+        "activity": {
+            "2025": 43
+        }
+    },
+    {
+        "name": "Akasec",
+        "location": [32.882163, -6.897713],
+        "website": "https://www.akasec.ma/",
+        "ctftime": 107202,
+        "logo": "https://ctftime.org/media/team/akasec_icon-15.png",
+        "activity": {
+            "2025": 31
+        }
+    },
+    {
+        "name": "0M3G4_SQU4D",
+        "location": [33.9843877, -6.8677224],
+        "ctftime": 306615,
+        "logo": "https://ctftime.org/media/team/Votre_texte_de_paragraphe_2_-removebg-preview.png",
+        "activity": {
+            "2025": 61
+        }
+    },
+    {
+        "name": "WhiteOps - AUI",
+        "location": [33.539369, -5.107299],
+        "ctftime": 285880,
+        "logo": "https://ctftime.org/media/team/logo_622.png",
+        "activity": {
+            "2025": 47
+        }
+    },
+    {
+        "name": "Urako",
+        "location": [33.984528, -6.725025],
+        "ctftime": 271886,
+        "activity": {
+            "2025": 33
+        }
+    },
+    {
+        "name": "ROPgods",
+        "location": [35.729298, -5.889063],
+        "ctftime": 395274,
+        "logo": "https://ctftime.org/media/team/20251117_1548_Crowned_Logo_Design_remix_01ka94hhxrewhtjh6gs1pzanjj-removebg-preview_1.png",
+        "activity": {
+            "2025": 15
+        }
+    },
+    {
+        "name": "CyberGlitchers",
+        "location": [33.984528, -6.725025],
+        "ctftime": 306464,
+        "logo": "https://ctftime.org/media/team/red.png",
+        "activity": {
+            "2025": 20
+        }
+    },
+    {
+        "name": "0xNox",
+        "location": [34.0442138, -5.0649046],
+        "ctftime": 271912,
+        "logo": "https://ctftime.org/media/team/0XNOX-LOGO-BBG.png",
+        "activity": {
+            "2025": 3
+        }
+    },
+    {
+        "name": "PH4NT0MS",
+        "location": [33.979673, -6.866731],
+        "ctftime": 278502,
+        "logo": "https://ctftime.org/media/team/Screenshot_2024-03-08_023626.png",
+        "activity": {
+            "2025": 1
+        }
+    },
+    {
+        "name": "PageFault",
+        "location": [33.539369, -5.107299],
+        "ctftime": 281774,
+        "activity": {
+            "2025": 0
+        }
+    },
+    {
+        "name": "Never7",
+        "location": [33.705313, -7.361467],
+        "ctftime": 359987,
+        "logo": "https://ctftime.org/media/team/WhatsApp_Image_2024-11-27_at_20.18.11.jpeg",
+        "activity": {
+            "2025": 2
+        }
+    },
+    {
+        "name": "CYBERDUNE CLUB",
+        "location": [29.001277, -10.082909],
+        "website": "https://www.cyberdune.tech/",
+        "ctftime": 409835,
+        "logo": "https://ctftime.org/media/team/WhatsApp_Image_2025-10-24_at_11.37.56.jpeg",
+        "activity": {
+            "2025": 6
+        }
+    },
+    {
+        "name": "3MSIxPL01T",
+        "location": [33.566258, -7.666333],
+        "website": "https://www.emsixploit.com/",
+        "ctftime": 414843,
+        "logo": "https://www.emsixploit.com/logo.png",
+        "activity": {
+            "2025": 0
+        }
+    },
+    {
+        "name": "MDN_1CH94N",
+        "location": [34.0442138, -5.0649046],
+        "ctftime": 431047,
+        "activity": {
+            "2025": 0
+        }
+    },
+    {
+        "name": "El Desnatadora",
+        "location": [33.980380, -6.729247],
+        "ctftime": 418761,
+        "activity": {
+            "2025": 1
+        }
+    }
+]
