@@ -1,0 +1,29 @@
+[
+    {
+        "name": "ChiLL Chain",
+        "location": [41.3160936, 69.2485347],
+        "ctftime": 352367,
+        "logo": "https://ctftime.org/media/team/logo2_31.png",
+        "activity": {
+            "2025": 44
+        }
+    },
+    {
+        "name": "b1tWalls",
+        "location": [41.31600, 69.29529],
+        "ctftime": 368866,
+        "logo": "https://ctftime.org/media/team/163679645.png",
+        "activity": {
+            "2025": 13
+        }
+    },
+    {
+        "name": "CSU CTF TEAM",
+        "location": [41.029686, 69.346832],
+        "ctftime": 428612,
+        "logo": "https://ctftime.org/media/team/photo_2026-04-14_10-29-17.jpg",
+        "activity": {
+            "2025": 0
+        }
+    }
+]
