@@ -1,0 +1,40 @@
+[
+    {
+        "name": "4hats",
+        "location": [32.336603, 36.240866],
+        "website": "https://4hats.app/",
+        "ctftime": 380823,
+        "logo": "https://ctftime.org/media/team/logo_640.png",
+        "activity": {
+            "2025": 31
+        }
+    },
+    {
+        "name": "Gh0stBytes",
+        "location": [32.040829, 35.900247],
+        "website": "https://4hats.app/",
+        "ctftime": 370347,
+        "logo": "https://ctftime.org/media/team/imageedit_2_9448500267.png",
+        "activity": {
+            "2025": 14
+        }
+    },
+    {
+        "name": "PH4NT0MR00T",
+        "location": [32.040829, 35.900247],
+        "ctftime": 405903,
+        "logo": "https://ctftime.org/media/team/slazzer-preview-g7zys.png",
+        "activity": {
+            "2025": 3
+        }
+    },
+    {
+        "name": "TuxPwners",
+        "location": [32.165861, 35.851760],
+        "ctftime": 274660,
+        "logo": "https://ctftime.org/media/team/MainLogo.jpeg",
+        "activity": {
+            "2025": 2
+        }
+    }
+]
