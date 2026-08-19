@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Ng00m4lDhuhr",
+        "location": [30.030647, 31.210890],
+        "ctftime": 196656,
+        "logo": "https://ctftime.org/media/team/_923c7117-503e-4822-bbb6-51f8e00d9c06.jpg",
+        "activity": {
+            "2025": 19
+        }
+    },
+    {
+        "name": "Ast3r0ids",
+        "location": [30.030647, 31.210890],
+        "ctftime": 408751,
+        "logo": "https://ctftime.org/media/team/Ast2_1.png",
+        "activity": {
+            "2025": 11
+        }
+    },
+    {
+        "name": "Al-7sh4sh33n",
+        "location": [25.76962, 32.80398],
+        "ctftime": 389476,
+        "logo": "https://ctftime.org/media/team/Al-Hashashin-Square.png",
+        "activity": {
+            "2025": 38
+        }
+    },
+    {
+        "name": "NovaX",
+        "location": [30.23319, 31.70602],
+        "ctftime": 386536,
+        "logo": "https://ctftime.org/media/team/ctf_22.png",
+        "activity": {
+            "2025": 9
+        }
+    },
+    {
+        "name": "INSIDER-EYE",
+        "location": [30.23319, 31.70602],
+        "ctftime": 442233,
+        "activity": {
+            "2025": 0
+        }
+    }
+]
