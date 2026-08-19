@@ -1,0 +1,60 @@
+[
+    {
+        "name": "FL1TZ",
+        "location": [36.84277, 10.19715],
+        "join": {
+            "link": "https://discord.gg/aVd57Awt"
+        },
+        "ctftime": 372633,
+        "logo": "https://ctftime.org/media/team/FL1TZ.jpg",
+        "activity": {
+            "2025": 29
+        }
+    },
+    {
+        "name": "PixelPioneers25",
+        "location": [36.842235, 10.197048],
+        "ctftime": 286676,
+        "logo": "https://ctftime.org/media/team/pxll_1.PNG",
+        "activity": {
+            "2025": 61
+        }
+    },
+    {
+        "name": "Securinets",
+        "location": [36.84277, 10.19715],
+        "website": "https://securinets.tn/",
+        "ctftime": 5084,
+        "logo": "https://ctftime.org/media/team/securinets-red.jpg",
+        "activity": {
+            "2025": 1
+        }
+    },
+    {
+        "name": "D6ath E9ters",
+        "location": [36.433469, 10.091093],
+        "ctftime": 307068,
+        "logo": "https://ctftime.org/media/team/logo_black_2.png",
+        "activity": {
+            "2025": 71
+        }
+    },
+    {
+        "name": "CrémeTartinéFabuleuse",
+        "location": [36.842235, 10.197048],
+        "ctftime": 280918,
+        "logo": "https://ctftime.org/media/team/Design_a_cyberp_23053324-511f-4026-a460-d1778e8e47f0.png",
+        "activity": {
+            "2025": 6
+        }
+    },
+    {
+        "name": "spyd3rs",
+        "location": [36.861274, 10.188733],
+        "ctftime": 278992,
+        "logo": "https://ctftime.org/media/team/SPYDERS.png",
+        "activity": {
+            "2025": 0
+        }
+    }
+]
