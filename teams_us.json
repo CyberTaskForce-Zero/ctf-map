@@ -1,0 +1,586 @@
+[
+    {
+        "name": "b01lers",
+        "location": [40.4275084, -86.9132300],
+        "website": "https://b01lers.net/",
+        "meetup": "Monday, 19:00 - 21:00",
+        "join": {
+            "link": "https://discord.gg/jrUGtYe"
+        },
+        "ctftime": 11464,
+        "logo": "https://ctftime.org/media/team/logo_gryffon_red.png",
+        "activity": {
+            "2025": 48
+        }
+    },
+    {
+        "name": "Shellphish",
+        "location": [34.413816, -119.841453],
+        "website": "https://shellphish.net/",
+        "ctftime": 285,
+        "logo": "https://ctftime.org/media/team/shellphish_logo_400px.png",
+        "activity": {
+            "2025": 34
+        }
+    },
+    {
+        "name": "Knightsec",
+        "location": [28.60140, -81.19866],
+        "website": "https://hackucf.org/",
+        "meetup": "Tuesday, 19:00",
+        "join": {
+            "link": "https://hackucf.org/discord"
+        },
+        "ctftime": 2500,
+        "logo": "https://ctftime.org/media/team/Final-Logo_copy_1.jpg",
+        "activity": {
+            "2025": 34
+        }
+    },
+    {
+        "name": "SIGPwny",
+        "location": [40.113804, -88.224783],
+        "website": "https://sigpwny.com/",
+        "meetup": "Thursday, 18:00 - 19:00 & Sunday, 17:00 - 18:00",
+        "join": {
+            "link": "https://discord.gg/cWcZ6a9"
+        },
+        "ctftime": 27763,
+        "logo": "https://ctftime.org/media/team/pwny8-dark.png",
+        "activity": {
+            "2025": 18
+        }
+    },
+    {
+        "name": "Plaid Parliament of Pwning",
+        "location": [40.444024, -79.946536],
+        "website": "https://pwning.net/",
+        "meetup": "Friday, 17:00",
+        "ctftime": 284,
+        "logo": "https://ctftime.org/media/team/new_logo_3.png",
+        "activity": {
+            "2025": 35
+        }
+    },
+    {
+        "name": "PBR | UCLA",
+        "location": [34.068874, -118.443518],
+        "website": "https://pbr.acmcyber.com/",
+        "meetup": "weekly",
+        "join": {
+            "link": "https://discord.gg/j9dgf2q"
+        },
+        "ctftime": 186494,
+        "logo": "https://ctftime.org/media/team/mix.png",
+        "activity": {
+            "2025": 23
+        }
+    },
+    {
+        "name": "NYUSEC",
+        "location": [40.692784, -73.987561],
+        "website": "https://osiris.cyber.nyu.edu/",
+        "join": {
+            "link": "https://osiris.link/discord"
+        },
+        "ctftime": 439,
+        "logo": "https://osiris.cyber.nyu.edu/favicon.svg",
+        "activity": {
+            "2025": 73
+        }
+    },
+    {
+        "name": "BYU Cyberia",
+        "location": [40.247680, -111.646489],
+        "website": "https://cybersecurity.byu.edu/csa",
+        "meetup": "Tuesday 19:00 & Friday 17:00",
+        "join": {
+            "link": "https://discord.gg/w9FjfFnWn"
+        },
+        "ctftime": 155711,
+        "logo": "https://ctftime.org/media/team/byu_cybersecurity.png",
+        "activity": {
+            "2025": 24
+        }
+    },
+    {
+        "name": "CSG",
+        "location": [32.9872321, -96.7497895],
+        "website": "https://jonssonstuco.utdallas.edu/organization-directory/csg/",
+        "meetup": "Wednesday, 19:00",
+        "join": {
+            "link": "https://discord.gg/YCbsueRZFQ"
+        },
+        "ctftime": 333,
+        "logo": "https://ctftime.org//media/team/csg-logo-purple.png",
+        "activity": {
+            "2025": 17
+        }
+    },
+    {
+        "name": "RPISEC",
+        "location": [42.729168, -73.678820],
+        "website": "https://rpis.ec/",
+        "meetup": "Wednesday & Friday, 18:00",
+        "join": {
+            "link": "https://discord.gg/esNEjvuy78"
+        },
+        "ctftime": 572,
+        "logo": "https://ctftime.org/media/team/rpisec-logo.jpg",
+        "activity": {
+            "2025": 24
+        }
+    },
+    {
+        "name": "Kernel Sanders",
+        "location": [29.648298, -82.344345],
+        "website": "https://ufsit.club/",
+        "meetup": "Thursday, 18:00 - 19:00",
+        "join": {
+            "link": "https://discord.gg/7HFp3fVWJh"
+        },
+        "ctftime": 397,
+        "logo": "https://ctftime.org/media/team/sitlogo_bg_white.png",
+        "activity": {
+            "2025": 45
+        }
+    },
+    {
+        "name": "UMDCSEC",
+        "location": [38.988727, -76.940081],
+        "website": "https://csec.umd.edu/",
+        "meetup": "Thursday, 17:00 - 19:00",
+        "join": {
+            "link": "https://discord.gg/QSBEakn"
+        },
+        "ctftime": 87711,
+        "logo": "https://csec.umd.edu/icon_logo.png",
+        "activity": {
+            "2025": 6
+        }
+    },
+    {
+        "name": "SavedByTheShell",
+        "location": [42.393923, -72.527664],
+        "website": "https://umasscybersec.org/",
+        "meetup": "Tuesday, 19:00",
+        "join": {
+            "link": "https://discord.gg/KRZDQTb"
+        },
+        "ctftime": 78233,
+        "logo": "https://umasscybersec.org/images/logo_dark.png",
+        "activity": {
+            "2025": 23
+        }
+    },
+    {
+        "name": "wolvsec",
+        "location": [42.292953, -83.717231],
+        "website": "https://wolvsec.org/",
+        "meetup": "Tuesday, 18:30",
+        "join": {
+            "link": "https://discord.gg/333DvQVeks"
+        },
+        "ctftime": 83621,
+        "logo": "https://ctftime.org/media/team/WolvSec.png",
+        "activity": {
+            "2025": 17
+        }
+    },
+    {
+        "name": "scriptohio",
+        "location": [40.003523, -83.015412],
+        "website": "https://osucyber.club/",
+        "meetup": "Wednesday, 19:00 - 20:00",
+        "join": {
+            "link": "https://discord.osucyber.club/"
+        },
+        "ctftime": 2524,
+        "logo": "https://osucyber.club/img/logo.png",
+        "activity": {
+            "2025": 11
+        }
+    },
+    {
+        "name": "Nol3ptr",
+        "location": [30.446304, -84.299488],
+        "ctftime": 2524,
+        "logo": "https://ctftime.org/media/team/logo_460.png",
+        "activity": {
+            "2025": 39
+        }
+    },
+    {
+        "name": "OSUSEC",
+        "location": [44.567190, -123.278562],
+        "website": "https://www.osusec.org/",
+        "join": {
+            "link": "https://discord.com/invite/ayX8f5W"
+        },
+        "ctftime": 12858,
+        "logo": "https://ctftime.org/media/team/beaver-discord_2.png",
+        "activity": {
+            "2025": 5
+        }
+    },
+    {
+        "name": "Cyber @ UCI",
+        "location": [33.642920, -117.843926],
+        "website": "https://cyberuci.com/",
+        "join": {
+            "link": "https://discord.cyberuci.com/"
+        },
+        "ctftime": 366788,
+        "logo": "https://ctftime.org//media/team/logo-color.B2laOV2E.png",
+        "activity": {
+            "2025": 18
+        }
+    },
+    {
+        "name": "UMBC Cyber Dawgs",
+        "location": [39.253990, -76.714801],
+        "website": "https://umbccd.umbc.edu/",
+        "meetup": "Monday, 19:15 - 20:15",
+        "join": {
+            "link": "https://discord.gg/hUVkGvvY2y"
+        },
+        "ctftime": 18405,
+        "logo": "https://umbccd.umbc.edu/images/avatar-cyberdefense-locked.png",
+        "activity": {
+            "2025": 1
+        }
+    },
+    {
+        "name": "GopherHack",
+        "location": [44.974538, -93.232231],
+        "website": "https://gopherhack.com/",
+        "meetup": "Thursday, 17:30 - 18:30",
+        "join": {
+            "link": "https://discord.gg/XXJpShZ762"
+        },
+        "ctftime": 177350,
+        "logo": "https://ctftime.org/media/team/logo_519.png",
+        "activity": {
+            "2025": 41
+        }
+    },
+    {
+        "name": "isss",
+        "location": [30.286228, -97.736580],
+        "website": "https://www.isss.io/",
+        "join": {
+            "link": "https://discord.com/invite/EbU4ghfSPr"
+        },
+        "ctftime": 69010,
+        "logo": "https://www.isss.io/assets/img/logo/isss-logoapple_touch_icon.png",
+        "activity": {
+            "2025": 1
+        }
+    },
+    {
+        "name": "FITSEC",
+        "location": [28.064369, -80.623944],
+        "website": "https://research.fit.edu/fitsec/",
+        "ctftime": 65296,
+        "logo": "https://ctftime.org/media/team/image1_1.png",
+        "activity": {
+            "2025": 18
+        }
+    },
+    {
+        "name": "Blue Hens",
+        "location": [39.680210, -75.751148],
+        "website": "https://studentcentral.udel.edu/organization/bluehenscapturetheflag",
+        "meetup": "Friday, 15:00 - 17:00",
+        "join": {
+            "link": "https://discord.gg/dHJGN9dffA"
+        },
+        "ctftime": 64660,
+        "logo": "https://ctftime.org/media/team/chicken.jpg",
+        "activity": {
+            "2025": 22
+        }
+    },
+    {
+        "name": "TAMUctf",
+        "location": [30.615831, -96.338237],
+        "ctftime": 37721,
+        "activity": {
+            "2025": 1
+        }
+    },
+    {
+        "name": "PolySec",
+        "location": [28.14813, -81.84878],
+        "ctftime": 373261,
+        "activity": {
+            "2025": 29
+        }
+    },
+    {
+        "name": "Cyber@UC",
+        "location": [39.133106, -84.519668],
+        "website": "https://cyberatuc.org/",
+        "meetup": "Wednesday, 18:00",
+        "join": {
+            "link": "https://discord.gg/9uPWPkAQuY"
+        },
+        "ctftime": 87727,
+        "logo": "https://cyberatuc.org/media/branding/club_logo.png",
+        "activity": {
+            "2025": 4
+        }
+    },
+    {
+        "name": "UofUCyberSec",
+        "location": [40.7688495, -111.8468872],
+        "ctftime": 286960,
+        "activity": {
+            "2025": 13
+        }
+    },
+    {
+        "name": "Contagion",
+        "location": [43.083831, -77.680331],
+        "website": "https://www.ritsec.club/",
+        "meetup": "Friday, 12:00 - 16:00",
+        "ctftime": 152691,
+        "logo": "https://ctftime.org/media/team/contagion3.png",
+        "activity": {
+            "2025": 7
+        }
+    },
+    {
+        "name": "Crimson Defense",
+        "location": [33.216513, -87.543794],
+        "website": "https://uacrimsondefense.github.io/",
+        "meetup": "Thursday, 18:00",
+        "join": {
+            "link": "https://discord.gg/4uaku486MM"
+        },
+        "ctftime": 65283,
+        "logo": "https://ctftime.org//media/team/crimsondefenselogo.png",
+        "activity": {
+            "2025": 5
+        }
+    },
+    {
+        "name": "Batman's Kitchen",
+        "location": [47.652600, -122.304987],
+        "website": "https://www.batmans.kitchen/",
+        "meetup": "Thursday, 17:30 - 19:30",
+        "join": {
+            "link": "https://discord.com/invite/tXrwJqrRMk"
+        },
+        "ctftime": 3135,
+        "logo": "https://ctftime.org/media/team/logo_633.png",
+        "activity": {
+            "2025": 14
+        }
+    },
+    {
+        "name": "Trinity Cyber Club",
+        "location": [29.464390, -98.483580],
+        "ctftime": 365267,
+        "logo": "https://ctftime.org/media/team/LogoTCG.jpg",
+        "activity": {
+            "2025": 15
+        }
+    },
+    {
+        "name": "TechSec",
+        "location": [42.361105, -71.090896],
+        "website": "http://techsec.scripts.mit.edu/",
+        "meetup": "weekly",
+        "ctftime": 24526,
+        "logo": "https://ctftime.org//media/team/white_and_gray_resize2.png",
+        "activity": {
+            "2025": 8
+        }
+    },
+    {
+        "name": "squ1rrel",
+        "location": [36.144893, -86.803359],
+        "website": "https://squ1rrel.dev/",
+        "meetup": "weekly",
+        "ctftime": 201730,
+        "logo": "https://ctftime.org/media/team/DALLE_2022-09-02_21.38.17_-_a_cute_squirrel_cracking_a_nut_vector_art_artstation.png",
+        "activity": {
+            "2025": 8
+        }
+    },
+    {
+        "name": "hackpack",
+        "location": [35.771941, -78.673978],
+        "website": "https://hackpack.club/",
+        "meetup": "Friday, 16:30",
+        "join": {
+            "link": "https://discord.com/invite/2jkZTmGZ"
+        },
+        "ctftime": 25905,
+        "logo": "https://cdn.discordapp.com/icons/796543947588632586/a167262ef30f8f77f7cd3b7a54c8c7ca.webp",
+        "activity": {
+            "2025": 15
+        }
+    },
+    {
+        "name": "Hash Slinging Hackers",
+        "location": [35.300153, -120.662034],
+        "website": "https://cpsecurity.club/",
+        "ctftime": 8754,
+        "logo": "https://ctftime.org/media/team/ctf_logo_8.png",
+        "activity": {
+            "2025": 14
+        }
+    },
+    {
+        "name": "hanto",
+        "location": [34.068874, -118.443518],
+        "ctftime": 20541,
+        "activity": {
+            "2025": 13
+        }
+    },
+    {
+        "name": "G1tc_Gu4rdians",
+        "location": [40.744514, -74.179661],
+        "ctftime": 202828,
+        "logo": "https://ctftime.org/media/team/cyb3rsw0rd.png",
+        "activity": {
+            "2025": 10
+        }
+    },
+    {
+        "name": "Highlander Hackers",
+        "location": [40.744514, -74.179661],
+        "ctftime": 173925,
+        "logo": "https://ctftime.org/media/team/Hat-Final.png",
+        "activity": {
+            "2025": 1
+        }
+    },
+    {
+        "name": "BroncoSec",
+        "location": [37.3488747, -121.9401949],
+        "website": "https://broncosec.com/",
+        "ctftime": 112673,
+        "activity": {
+            "2025": 6
+        }
+    },
+    {
+        "name": "CUCyber",
+        "location": [40.809363, -73.959953],
+        "website": "https://cucyber.cs.columbia.edu/",
+        "meetup": "Thursday, 19:00 - 20:30",
+        "ctftime": 62539,
+        "logo": "https://ctftime.org//media/team/square_2.png",
+        "activity": {
+            "2025": 6
+        }
+    },
+    {
+        "name": "RandomHackers",
+        "location": [38.9830033, -76.9463721],
+        "ctftime": 400860,
+        "activity": {
+            "2025": 6
+        }
+    },
+    {
+        "name": "0ski",
+        "location": [37.874866, -122.258340],
+        "website": "https://1337.berkeley.edu/",
+        "meetup": "Thursday, 18:00",
+        "join": {
+            "link": "https://discord.gg/dd7a6VN5ut"
+        },
+        "ctftime": 182411,
+        "logo": "https://ctftime.org/media/team/19788AE1-395F-4B94-981A-1DC050A6ADE5.jpeg",
+        "activity": {
+            "2025": 4
+        }
+    },
+    {
+        "name": "Cyber Billikens",
+        "location": [38.6358326, -90.2324691],
+        "website": "https://slu-cyberbillikens.vercel.app/",
+        "join": {
+            "link": "https://discord.com/invite/H4uaKYzQ"
+        },
+        "ctftime": 278158,
+        "logo": "https://slu-cyberbillikens.vercel.app/assets/foxlogo-B33s8Xpx.png",
+        "activity": {
+            "2025": 4
+        }
+    },
+    {
+        "name": "Cybears ʕ •ᴥ•ʔ",
+        "location": [42.4446475, -76.4813111],
+        "website": "https://cornellcyber.club/",
+        "meetup": "weekly",
+        "join": {
+            "link": "https://discord.gg/5qbMGE97NE"
+        },
+        "ctftime": 406840,
+        "logo": "https://ctftime.org//media/team/CCCLogoRed.png",
+        "activity": {
+            "2025": 3
+        }
+    },
+    {
+        "name": "Mason Competitive Cyber",
+        "location": [38.828335, -77.305848],
+        "website": "https://competitivecyber.club/",
+        "meetup": "Friday, 18:00 - 19:00",
+        "join": {
+            "link": "https://discord.gg/AByZnByb32"
+        },
+        "ctftime": 182411,
+        "logo": "https://competitivecyber.club/images/masoncc.svg",
+        "activity": {
+            "2025": 2
+        }
+    },
+    {
+        "name": "alchemy1729",
+        "location": [33.4232777, -111.9392101],
+        "ctftime": 427794,
+        "activity": {
+            "2025": 0
+        }
+    },
+    {
+        "name": "galhacktic trendsetters",
+        "location": [42.361105, -71.090896],
+        "website": "https://galhacktictrendsetters.wordpress.com/",
+        "ctftime": 27939,
+        "logo": "https://ctftime.org/media/team/galhacktic_logo.png",
+        "activity": {
+            "2025": 0
+        }
+    },
+    {
+        "name": "HACK@CIT",
+        "location": [41.2910061, -72.9622038],
+        "join": {
+            "link": "https://discord.gg/F76hFHCC8M"
+        },
+        "ctftime": 287896,
+        "logo": "https://ctftime.org/media/team/cit-webpage_1.png",
+        "activity": {
+            "2025": 0
+        }
+    },
+    {
+        "name": "Hackers N' Hops",
+        "location": [38.843852, -104.829024],
+        "website": "https://hackersnhops.com/",
+        "meetup": "monthly",
+        "ctftime": 119910,
+        "logo": "https://ctftime.org/media/team/Hackers_N_Hops-01.png",
+        "activity": {
+            "2025": 0
+        }
+    }
+]
