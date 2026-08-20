@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Schrödinger Bears",
+        "location": [33.655933, 73.016314],
+        "ctftime": 304586,
+        "logo": "https://ctftime.org/media/team/TeamLogo_1.png",
+        "activity": {
+            "2025": 27
+        }
+    },
+    {
+        "name": "BR41NL@G",
+        "location": [33.655933, 73.016314],
+        "ctftime": 394674,
+        "logo": "https://ctftime.org/media/team/LOGO_12.png",
+        "activity": {
+            "2025": 27
+        }
+    },
+    {
+        "name": "AIRvanguard",
+        "location": [33.713042, 73.023468],
+        "website": "https://airvanguard-ctf.vercel.app/",
+        "ctftime": 394066,
+        "logo": "https://ctftime.org/media/team/Non_METAL_VANGUARD_1.png",
+        "activity": {
+            "2025": 22
+        }
+    },
+    {
+        "name": "HasHash",
+        "location": [33.713042, 73.023468],
+        "website": "https://www.hashash.vercel.app/",
+        "ctftime": 356153,
+        "activity": {
+            "2025": 20
+        }
+    },
+    {
+        "name": "revolt_ctf",
+        "location": [24.857014, 67.264615],
+        "ctftime": 215031,
+        "activity": {
+            "2025": 1
+        }
+    }
+]
