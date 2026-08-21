@@ -1,20 +1,5 @@
 [
     {
-        "name": "CyberTaskForce Zero",
-        "location": [52.2786094, 10.5210984],
-        "website": "https://ctf0.de/",
-        "meetup": "Tuesday, 18:00 (bi-weekly)",
-        "join": {
-            "link": "https://matrix.to/#/#ctf_zero:stratum0.org?via=stratum0.org&via=matrix.org&via=entropia.de",
-            "text": "#ctf_zero:stratum0.org"
-        },
-        "ctftime": 66229,
-        "logo": "https://ctftime.org/media/team/ctf0.png",
-        "activity": {
-            "2025": 20
-        }
-    },
-    {
         "name": "M4SEC",
         "location": [33.980380, -6.729247],
         "website": "https://m4sec.team/",
