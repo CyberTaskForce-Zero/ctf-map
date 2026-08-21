@@ -1,0 +1,49 @@
+[
+    {
+        "name": "B33F 50UP",
+        "location": [22.997177, 120.22038],
+        "website": "https://nckuctf.org/",
+        "meetup": "weekly",
+        "join": {
+            "link": "https://discord.com/invite/Fq9T8NNb6E"
+        },
+        "ctftime": 300274,
+        "logo": "https://nckuctf.org/visual.png",
+        "activity": {
+            "2025": 8
+        }
+    },
+    {
+        "name": "HackerSir",
+        "location": [24.179275, 120.649605],
+        "website": "https://hackersir.org/",
+        "meetup": "Monday & Wednesday, 19:00 - 21:00",
+        "join": {
+            "link": "https://discord.gg/VCfC43Te3T"
+        },
+        "ctftime": 154555,
+        "logo": "https://hackersir.org/2022/static/image/HackerSir_Circle.png",
+        "activity": {
+            "2025": 18
+        }
+    },
+    {
+        "name": "SHAOCHI LU",
+        "location": [24.9681280, 121.1946660],
+        "ctftime": 170807,
+        "logo": "https://ctftime.org/media/team/NEWTITLE_2.png",
+        "activity": {
+            "2025": 16
+        }
+    },
+    {
+        "name": "Balsn",
+        "location": [25.019110, 121.541625],
+        "website": "https://balsn.tw/",
+        "ctftime": 16978,
+        "logo": "https://ctftime.org/media/team/balsn_1.jpg",
+        "activity": {
+            "2025": 0
+        }
+    }
+]
