@@ -1,0 +1,30 @@
+[
+    {
+        "name": "NuttyShell",
+        "location": [22.304165, 114.180329],
+        "website": "https://polyuctf.com/",
+        "ctftime": 72265,
+        "logo": "https://ctftime.org/media/team/Nuttyshell_Logo_Finalized-corp-square.png",
+        "activity": {
+            "2025": 27
+        }
+    },
+    {
+        "name": "HKUSTFirebird",
+        "location": [22.3375197, 114.2629918],
+        "ctftime": 65249,
+        "logo": "https://ctftime.org/media/team/firebird-ctf-team-logo.png",
+        "activity": {
+            "2025": 10
+        }
+    },
+    {
+        "name": "What()",
+        "location": [22.3375197, 114.2629918],
+        "ctftime": 369100,
+        "logo": "https://ctftime.org/media/team/101815409315337429.png",
+        "activity": {
+            "2025": 20
+        }
+    }
+]
