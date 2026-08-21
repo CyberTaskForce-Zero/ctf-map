@@ -1,0 +1,157 @@
+[
+    {
+        "name": "HCS",
+        "location": [-7.284775, 112.796245],
+        "website": "https://hcs-team.com",
+        "ctftime": 70159,
+        "logo": "https://ctftime.org/media/team/LOGO-HCS-FINAL.png",
+        "activity": {
+            "2025": 93
+        }
+    },
+    {
+        "name": "CSUI",
+        "location": [-6.37006, 106.82734],
+        "ctftime": 70551,
+        "logo": "https://ctftime.org/media/team/meong.jpg",
+        "activity": {
+            "2025": 16
+        }
+    },
+    {
+        "name": "ICC UH",
+        "location": [-5.233104, 119.502974],
+        "ctftime": 314212,
+        "logo": "https://ctftime.org/media/team/logo_x703.png",
+        "activity": {
+            "2025": 68
+        }
+    },
+    {
+        "name": "LappungCTF{}",
+        "location": [-5.389978, 105.269204],
+        "website": "https://lappungctf.dev/",
+        "ctftime": 22044,
+        "logo": "https://ctftime.org/media/team/Logo_1_2.png",
+        "activity": {
+            "2025": 18
+        }
+    },
+    {
+        "name": "UCS",
+        "location": [-7.284775, 112.796245],
+        "website": "https://ucs.or.id/",
+        "meetup": "weekly",
+        "ctftime": 390903,
+        "logo": "https://ctftime.org/media/team/Logo_Circle1.png",
+        "activity": {
+            "2025": 22
+        }
+    },
+    {
+        "name": "Tenesys",
+        "location": [-5.382063, 105.257802],
+        "ctftime": 22044,
+        "logo": "https://ctftime.org/media/team/NewTenesysCTFTime.png",
+        "activity": {
+            "2025": 22
+        }
+    },
+    {
+        "name": "CSI",
+        "location": [-6.557782, 106.731475],
+        "website": "https://himalkom.cs.ipb.ac.id/",
+        "ctftime": 11930,
+        "logo": "https://ctftime.org/media/team/csi.png",
+        "activity": {
+            "2025": 28
+        }
+    },
+    {
+        "name": "Nattt",
+        "location": [-5.356304, 105.232134],
+        "website": "https://nattts.vercel.app/",
+        "ctftime": 408130,
+        "logo": "https://ctftime.org/media/team/pp_3.png",
+        "activity": {
+            "2025": 18
+        }
+    },
+    {
+        "name": "The Bus Factor is 1:",
+        "location": [-7.050356, 110.394171],
+        "website": "https://thebusfactoris1.online/",
+        "join": {
+            "link": "https://discord.gg/dEKKgVdYHr"
+        },
+        "ctftime": 389946,
+        "logo": "https://ctftime.org/media/team/tes_3z0unc3z0unc3z0u.png",
+        "activity": {
+            "2025": 15
+        }
+    },
+    {
+        "name": "kiaB kataB",
+        "location": [-7.954376, 112.614748],
+        "ctftime": 380179,
+        "activity": {
+            "2025": 7
+        }
+    },
+    {
+        "name": "Xyl0n",
+        "location": [-6.3723510, 106.8239582],
+        "ctftime": 383074,
+        "logo": "https://ctftime.org/media/team/Biru_Dan_Kuning_Ilustrasi_Bengkel_Otomotif_Logo.jpg",
+        "activity": {
+            "2025": 30
+        }
+    },
+    {
+        "name": "CCUG",
+        "location": [-6.24892, 106.97068],
+        "website": "http://ccug.gunadarma.ac.id/",
+        "ctftime": 45168,
+        "logo": "https://ctftime.org/media/team/28534306_1629090890502980_775184996_n.jpg",
+        "activity": {
+            "2025": 13
+        }
+    },
+    {
+        "name": "ASGama",
+        "location": [-7.772444, 110.378434],
+        "ctftime": 24022,
+        "logo": "https://ctftime.org/media/team/asgama.png",
+        "activity": {
+            "2025": 9
+        }
+    },
+    {
+        "name": "Hack It Braw!",
+        "location": [-7.954376, 112.614748],
+        "ctftime": 278469,
+        "logo": "https://ctftime.org/media/team/HIB-logo_1.png",
+        "activity": {
+            "2025": 6
+        }
+    },
+    {
+        "name": "A G R I C H E",
+        "location": [-2.963495, 104.741067],
+        "website": "https://rei.my.id/",
+        "ctftime": 405156,
+        "logo": "https://rei.my.id/_astro/avatar.V7mn8EFL_2oVTrD.webp",
+        "activity": {
+            "2025": 3
+        }
+    },
+    {
+        "name": "Fisabilillah",
+        "location": [-7.944029, 112.614563],
+        "ctftime": 354285,
+        "logo": "https://ctftime.org/media/team/WhatsApp_Image_2026-07-09_at_16.53.49.jpeg",
+        "activity": {
+            "2025": 0
+        }
+    }
+]
