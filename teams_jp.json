@@ -1,0 +1,66 @@
+[
+    {
+        "name": "BunkyoWesterns",
+        "location": [35.7193786, 139.7456344],
+        "website": "https://bunkyowesterns.org/",
+        "ctftime": 269765,
+        "logo": "https://bunkyowesterns.org/bw_logo_touka.png",
+        "activity": {
+            "2025": 35
+        }
+    },
+    {
+        "name": "TPC",
+        "location": [36.110347, 140.100223],
+        "website": "https://tkbpc.github.io/",
+        "meetup": "Thursday, 18:30",
+        "ctftime": 222485,
+        "logo": "https://ctftime.org/media/team/TPC_logo.jpeg",
+        "activity": {
+            "2025": 38
+        }
+    },
+    {
+        "name": "TSG",
+        "location": [35.659068, 139.685304],
+        "website": "https://tsg.ne.jp/",
+        "meetup": "weekly",
+        "ctftime": 16088,
+        "logo": "https://ctftime.org/media/team/tsg.png",
+        "activity": {
+            "2025": 10
+        }
+    },
+    {
+        "name": "MMA",
+        "location": [35.659146, 139.543649],
+        "website": "https://wiki.mma.club.uec.ac.jp/",
+        "ctftime": 4899,
+        "logo": "https://ctftime.org/media/team/logo_17.png",
+        "activity": {
+            "2025": 7
+        }
+    },
+    {
+        "name": "RiST",
+        "location": [34.808967, 135.561451],
+        "website": "https://risec.github.io/",
+        "meetup": "weekly",
+        "ctftime": 42506,
+        "logo": "https://ctftime.org/media/team/RiST.jpg",
+        "activity": {
+            "2025": 9
+        }
+    },
+    {
+        "name": "Wani Hackase",
+        "location": [34.818265, 135.522288],
+        "website": "https://wanictf.org/",
+        "meetup": "Wednesday, 18:00 - 19:30",
+        "ctftime": 70717,
+        "logo": "https://ctftime.org/media/team/wani_futura.png",
+        "activity": {
+            "2025": 8
+        }
+    }
+]
