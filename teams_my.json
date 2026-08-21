@@ -1,0 +1,50 @@
+[
+    {
+        "name": "UiTM Cyberheroes Club",
+        "location": [3.070678, 101.499338],
+        "website": "https://uitmcyberheroes.com/",
+        "meetup": "monthly",
+        "ctftime": 283021,
+        "logo": "https://uitmcyberheroes.com/assets/logo.png",
+        "activity": {
+            "2025": 7
+        }
+    },
+    {
+        "name": "Lv1x",
+        "location": [3.055842, 101.700616],
+        "website": "https://www.lv1x.xyz/",
+        "ctftime": 259874,
+        "logo": "https://ctftime.org/media/team/lel.png",
+        "activity": {
+            "2025": 18
+        }
+    },
+    {
+        "name": "sk1d_s3c",
+        "location": [2.843176, 101.781421],
+        "ctftime": 259874,
+        "logo": "https://ctftime.org/media/team/download_60.jpg",
+        "activity": {
+            "2025": 4
+        }
+    },
+    {
+        "name": "GPT-1110v2",
+        "location": [4.338548, 101.140426],
+        "ctftime": 439415,
+        "logo": "https://ctftime.org/media/team/IMG_2080.png",
+        "activity": {
+            "2025": 0
+        }
+    },
+    {
+        "name": "p0rt502",
+        "location": [4.753313, 100.947232],
+        "ctftime": 424512,
+        "logo": "hhttps://ctftime.org/media/team/Untitled_design_26.png",
+        "activity": {
+            "2025": 0
+        }
+    }
+]
