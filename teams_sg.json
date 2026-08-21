@@ -1,0 +1,46 @@
+[
+    {
+        "name": "NUS GreyHats",
+        "location": [1.294305, 103.774763],
+        "website": "http://nusgreyhats.org/",
+        "meetup": "Wednesday",
+        "ctftime": 16740,
+        "logo": "https://nusgreyhats.org/greyhats.png",
+        "activity": {
+            "2025": 15
+        }
+    },
+    {
+        "name": "procrastinators",
+        "location": [1.346007, 103.682093],
+        "ctftime": 436953,
+        "activity": {
+            "2025": 0
+        }
+    },
+    {
+        "name": "Quackers 2.0",
+        "location": [1.374278, 103.751707],
+        "ctftime": 409827,
+        "logo": "https://ctftime.org/media/team/duck-50_-_Copy.jpg",
+        "activity": {
+            "2025": 4
+        }
+    },
+    {
+        "name": "NUT Flaggers",
+        "location": [1.346007, 103.682093],
+        "ctftime": 422574,
+        "activity": {
+            "2025": 0
+        }
+    },
+    {
+        "name": "G04T3DP30PL3",
+        "location": [1.294305, 103.774763],
+        "ctftime": 299483,
+        "activity": {
+            "2025": 6
+        }
+    }
+]
